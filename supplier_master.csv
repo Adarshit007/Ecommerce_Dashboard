@@ -1,0 +1,151 @@
+Supplier_ID,Supplier_Name,Contact_Person,Mobile_Number,City,State,Country,Lead_Time_Days,Supplier_Rating
+SUP0001,Dell Supplier 1,Aarav Gupta,+918051802512,Lucknow,Uttar Pradesh,India,9,3.4
+SUP0002,Tata Supplier 2,Aditya Shetty,+918812140441,Mumbai,Maharashtra,India,3,3.3
+SUP0003,Adidas Supplier 3,Sneha Khan,+917113971123,Hyderabad,Telangana,India,8,4.4
+SUP0004,Tata Supplier 4,Sara Nair,+918929338154,Kochi,Kerala,India,10,4.6
+SUP0005,Lenovo Supplier 5,Rahul Panda,+918461364854,Bangalore,Karnataka,India,10,3.5
+SUP0006,LG Supplier 6,Arjun Patel,+918631775357,Dubai,Dubai,UAE,5,3.8
+SUP0007,Penguin Supplier 7,Ishaan Das,+918973214822,Pune,Maharashtra,India,5,4.9
+SUP0008,Sony Supplier 8,Pooja Mehta,+919699987374,Kolkata,West Bengal,India,13,4.2
+SUP0009,Sony Supplier 9,Vivaan Nair,+918242911821,Kochi,Kerala,India,4,4.7
+SUP0010,Dell Supplier 10,Ira Gupta,+918947382419,Abu Dhabi,Abu Dhabi,UAE,13,3.5
+SUP0011,Nike Supplier 11,Amit Gupta,+919935814872,Pune,Maharashtra,India,4,4.2
+SUP0012,Tata Supplier 12,Vikram Nair,+917701808367,Delhi,Delhi,India,16,3.8
+SUP0013,Tata Supplier 13,Krishna Joshi,+917240251661,Lucknow,Uttar Pradesh,India,9,4.6
+SUP0014,LG Supplier 14,Ira Gupta,+917284277889,Dubai,Dubai,UAE,8,4.8
+SUP0015,LG Supplier 15,Ayaan Chatterjee,+918699226064,Jaipur,Rajasthan,India,16,3.4
+SUP0016,Adidas Supplier 16,Vikram Iyer,+919314889832,Delhi,Delhi,India,10,4.5
+SUP0017,HUL Supplier 17,Ira Parida,+917941975480,Kolkata,West Bengal,India,6,4.1
+SUP0018,Samsung Supplier 18,Soumya Reddy,+917656448479,Mumbai,Maharashtra,India,7,4.5
+SUP0019,Penguin Supplier 19,Aditya Mangaraj,+918639042338,Kolkata,West Bengal,India,16,4.1
+SUP0020,Apple Supplier 20,Amit Reddy,+919927923735,Ahmedabad,Gujarat,India,10,4.5
+SUP0021,Dell Supplier 21,Shaurya Panda,+917679282378,Pune,Maharashtra,India,16,3.2
+SUP0022,Puma Supplier 22,Sneha Kumar,+919180476188,Kochi,Kerala,India,5,4.7
+SUP0023,Nestle Supplier 23,Anika Mishra,+917656439677,Chennai,Tamil Nadu,India,13,4.5
+SUP0024,Nestle Supplier 24,Ankita Sharma,+919572447412,Ahmedabad,Gujarat,India,12,4.0
+SUP0025,Philips Supplier 25,Saroj Mehta,+918028439863,Mumbai,Maharashtra,India,3,3.6
+SUP0026,Sony Supplier 26,Aditya Chatterjee,+917297265480,Jaipur,Rajasthan,India,6,3.4
+SUP0027,Tata Supplier 27,Reyansh Gupta,+919266341635,Bhubaneswar,Odisha,India,15,4.8
+SUP0028,Nike Supplier 28,Rahul Mehta,+918713658874,Ahmedabad,Gujarat,India,13,3.9
+SUP0029,Maybelline Supplier 29,Arjun Nair,+917965067727,Ahmedabad,Gujarat,India,4,3.8
+SUP0030,Tata Supplier 30,Krishna Shetty,+917945826486,Jaipur,Rajasthan,India,2,3.3
+SUP0031,Samsung Supplier 31,Krishna Patel,+917134917627,Lucknow,Uttar Pradesh,India,12,3.3
+SUP0032,Puma Supplier 32,Amit Chatterjee,+917920140090,Hyderabad,Telangana,India,6,4.4
+SUP0033,HUL Supplier 33,Priya Nair,+919031403296,Jaipur,Rajasthan,India,15,3.5
+SUP0034,IKEA Supplier 34,Diya Panda,+918765670844,Mumbai,Maharashtra,India,16,4.7
+SUP0035,Dell Supplier 35,Vivaan Mangaraj,+918457293575,Bangalore,Karnataka,India,5,3.6
+SUP0036,Tata Supplier 36,Aarohi Singh,+918811967841,Hyderabad,Telangana,India,7,3.7
+SUP0037,Sony Supplier 37,Aarohi Iyer,+917420514789,Hyderabad,Telangana,India,3,4.3
+SUP0038,Apple Supplier 38,Aditya Nair,+917714300770,Ahmedabad,Gujarat,India,15,4.0
+SUP0039,Prestige Supplier 39,Saroj Das,+917707111048,Hyderabad,Telangana,India,14,3.2
+SUP0040,Puma Supplier 40,Ankita Rao,+918225136114,Kolkata,West Bengal,India,15,4.4
+SUP0041,Tata Supplier 41,Amit Chatterjee,+917664847319,Kochi,Kerala,India,8,3.7
+SUP0042,HUL Supplier 42,Vikram Iyer,+917261810763,Bangalore,Karnataka,India,12,3.3
+SUP0043,Lakme Supplier 43,Sneha Verma,+917676168421,Jaipur,Rajasthan,India,3,4.8
+SUP0044,Lenovo Supplier 44,Aditya Khan,+917291889680,Mumbai,Maharashtra,India,9,3.9
+SUP0045,Adidas Supplier 45,Neha Khan,+917170689150,Jaipur,Rajasthan,India,4,3.9
+SUP0046,HUL Supplier 46,Sneha Joshi,+918119980130,Jaipur,Rajasthan,India,8,4.3
+SUP0047,Adidas Supplier 47,Ishaan Mangaraj,+917562117925,Pune,Maharashtra,India,11,4.0
+SUP0048,Sony Supplier 48,Aarav Rao,+919667858669,Dubai,Dubai,UAE,5,3.3
+SUP0049,Nestle Supplier 49,Ishaan Singh,+918498981529,Hyderabad,Telangana,India,4,4.7
+SUP0050,Boat Supplier 50,Reyansh Rao,+919333103372,Pune,Maharashtra,India,11,4.2
+SUP0051,Nestle Supplier 51,Aarav Iyer,+918285821930,Dubai,Dubai,UAE,5,4.8
+SUP0052,Puma Supplier 52,Arjun Reddy,+919376077463,Delhi,Delhi,India,6,3.7
+SUP0053,Nike Supplier 53,Rahul Joshi,+917874443787,Jaipur,Rajasthan,India,10,4.1
+SUP0054,Samsung Supplier 54,Aditya Panda,+918188332531,Chennai,Tamil Nadu,India,3,3.2
+SUP0055,HP Supplier 55,Rohan Gupta,+917693989311,Dubai,Dubai,UAE,16,4.1
+SUP0056,Tata Supplier 56,Aarav Reddy,+917323169889,Kolkata,West Bengal,India,6,4.1
+SUP0057,Philips Supplier 57,Neha Iyer,+917636057975,Abu Dhabi,Abu Dhabi,UAE,15,3.4
+SUP0058,Philips Supplier 58,Saroj Das,+918536778950,Chennai,Tamil Nadu,India,8,4.4
+SUP0059,Dell Supplier 59,Diya Iyer,+918745377599,Lucknow,Uttar Pradesh,India,6,4.8
+SUP0060,Lenovo Supplier 60,Sanjay Kumar,+918770791023,Hyderabad,Telangana,India,2,3.5
+SUP0061,IKEA Supplier 61,Sanjay Nair,+918145921803,Pune,Maharashtra,India,7,4.5
+SUP0062,Prestige Supplier 62,Soumya Das,+919021598245,Mumbai,Maharashtra,India,9,3.5
+SUP0063,Philips Supplier 63,Shaurya Nair,+917957449367,Bhubaneswar,Odisha,India,2,4.3
+SUP0064,LG Supplier 64,Ishaan Patel,+918198832728,Kolkata,West Bengal,India,13,4.3
+SUP0065,Tata Supplier 65,Anaya Sharma,+917495389030,Kolkata,West Bengal,India,10,3.5
+SUP0066,Samsung Supplier 66,Arjun Khan,+918866437132,Chennai,Tamil Nadu,India,13,4.4
+SUP0067,IKEA Supplier 67,Anika Verma,+917496694873,Pune,Maharashtra,India,14,4.7
+SUP0068,Puma Supplier 68,Vivaan Panda,+917007263971,Hyderabad,Telangana,India,18,4.8
+SUP0069,Nike Supplier 69,Diya Panda,+917300535210,Ahmedabad,Gujarat,India,12,4.3
+SUP0070,Dell Supplier 70,Vikram Mehta,+919178074590,Lucknow,Uttar Pradesh,India,11,4.3
+SUP0071,Prestige Supplier 71,Rahul Mehta,+919381183483,Pune,Maharashtra,India,6,3.5
+SUP0072,Prestige Supplier 72,Amit Kumar,+919643616431,Lucknow,Uttar Pradesh,India,11,3.9
+SUP0073,Apple Supplier 73,Shaurya Mehta,+917902727745,Abu Dhabi,Abu Dhabi,UAE,15,4.5
+SUP0074,LG Supplier 74,Aarohi Rao,+918899061865,Jaipur,Rajasthan,India,8,4.1
+SUP0075,Lenovo Supplier 75,Amit Patel,+918218853328,Dubai,Dubai,UAE,18,4.3
+SUP0076,LG Supplier 76,Aditya Nair,+919889635392,Jaipur,Rajasthan,India,11,3.6
+SUP0077,HP Supplier 77,Aarav Das,+918051590706,Hyderabad,Telangana,India,17,4.2
+SUP0078,Sony Supplier 78,Aarohi Panda,+919704821724,Dubai,Dubai,UAE,8,4.4
+SUP0079,Lakme Supplier 79,Ira Nair,+917633814084,Kolkata,West Bengal,India,2,4.7
+SUP0080,Dell Supplier 80,Karan Panda,+917939915527,Abu Dhabi,Abu Dhabi,UAE,7,4.6
+SUP0081,Nestle Supplier 81,Aarohi Das,+919394039673,Kochi,Kerala,India,9,4.8
+SUP0082,Maybelline Supplier 82,Sai Rao,+919867224513,Mumbai,Maharashtra,India,18,4.9
+SUP0083,LG Supplier 83,Karan Rao,+919631321682,Jaipur,Rajasthan,India,18,3.9
+SUP0084,Maybelline Supplier 84,Saroj Kumar,+919038711176,Ahmedabad,Gujarat,India,16,3.6
+SUP0085,Puma Supplier 85,Karan Verma,+919081328344,Hyderabad,Telangana,India,9,3.7
+SUP0086,Boat Supplier 86,Krishna Gupta,+918442454200,Mumbai,Maharashtra,India,12,4.7
+SUP0087,HP Supplier 87,Sai Nair,+918645124051,Mumbai,Maharashtra,India,6,4.4
+SUP0088,IKEA Supplier 88,Sara Joshi,+919330497115,Mumbai,Maharashtra,India,16,3.9
+SUP0089,IKEA Supplier 89,Ira Shetty,+919987248494,Hyderabad,Telangana,India,2,4.7
+SUP0090,HUL Supplier 90,Ira Chatterjee,+917025323460,Dubai,Dubai,UAE,13,3.7
+SUP0091,IKEA Supplier 91,Pooja Iyer,+919590950133,Kolkata,West Bengal,India,9,4.0
+SUP0092,IKEA Supplier 92,Priya Sharma,+918670128972,Chennai,Tamil Nadu,India,12,4.3
+SUP0093,Prestige Supplier 93,Vikram Kumar,+919007425404,Dubai,Dubai,UAE,6,4.9
+SUP0094,Apple Supplier 94,Ankita Mangaraj,+919542160120,Ahmedabad,Gujarat,India,2,3.3
+SUP0095,HP Supplier 95,Soumya Rao,+917780520225,Kolkata,West Bengal,India,3,3.6
+SUP0096,Nike Supplier 96,Aarohi Joshi,+918449553823,Pune,Maharashtra,India,14,3.7
+SUP0097,IKEA Supplier 97,Ishaan Patel,+919019952485,Abu Dhabi,Abu Dhabi,UAE,2,4.5
+SUP0098,Philips Supplier 98,Krishna Patel,+919799264931,Bangalore,Karnataka,India,3,4.5
+SUP0099,Nike Supplier 99,Prakash Sharma,+919668616333,Hyderabad,Telangana,India,6,3.6
+SUP0100,Dell Supplier 100,Neha Mishra,+918997305752,Bhubaneswar,Odisha,India,10,4.5
+SUP0101,Penguin Supplier 101,Anika Reddy,+917703368777,Delhi,Delhi,India,11,3.4
+SUP0102,Boat Supplier 102,Neha Mangaraj,+918703617827,Bangalore,Karnataka,India,8,3.3
+SUP0103,Adidas Supplier 103,Arjun Mehta,+919938870196,Kochi,Kerala,India,5,4.6
+SUP0104,Samsung Supplier 104,Diya Iyer,+918839869544,Jaipur,Rajasthan,India,13,3.3
+SUP0105,LG Supplier 105,Aarav Panda,+919105400301,Lucknow,Uttar Pradesh,India,5,3.9
+SUP0106,Maybelline Supplier 106,Rahul Singh,+918870403050,Pune,Maharashtra,India,7,4.4
+SUP0107,Puma Supplier 107,Anika Iyer,+919076605983,Lucknow,Uttar Pradesh,India,16,3.9
+SUP0108,HUL Supplier 108,Ishaan Joshi,+918054393708,Kochi,Kerala,India,4,3.7
+SUP0109,Adidas Supplier 109,Karan Rao,+919447485590,Bhubaneswar,Odisha,India,14,3.8
+SUP0110,LG Supplier 110,Reyansh Chatterjee,+917911047815,Bhubaneswar,Odisha,India,13,4.6
+SUP0111,Puma Supplier 111,Saroj Khan,+918186564497,Pune,Maharashtra,India,2,4.1
+SUP0112,Sony Supplier 112,Krishna Panda,+919098425880,Hyderabad,Telangana,India,9,4.4
+SUP0113,Lakme Supplier 113,Aarohi Sharma,+917399661102,Lucknow,Uttar Pradesh,India,11,3.6
+SUP0114,Adidas Supplier 114,Shaurya Shetty,+918584930775,Kochi,Kerala,India,17,4.1
+SUP0115,IKEA Supplier 115,Vikram Iyer,+918420737819,Pune,Maharashtra,India,13,4.4
+SUP0116,Boat Supplier 116,Ishaan Nair,+917518213060,Chennai,Tamil Nadu,India,8,3.7
+SUP0117,Tata Supplier 117,Karan Kumar,+917822662216,Kochi,Kerala,India,8,4.5
+SUP0118,HUL Supplier 118,Karan Verma,+919563196714,Chennai,Tamil Nadu,India,11,4.9
+SUP0119,Nike Supplier 119,Shaurya Nair,+918549972386,Abu Dhabi,Abu Dhabi,UAE,7,3.7
+SUP0120,Tata Supplier 120,Sai Gupta,+917195488441,Kochi,Kerala,India,3,4.1
+SUP0121,HP Supplier 121,Rohan Chatterjee,+917440610570,Kochi,Kerala,India,2,4.2
+SUP0122,Lakme Supplier 122,Aarohi Joshi,+917791835934,Bhubaneswar,Odisha,India,3,3.6
+SUP0123,Lakme Supplier 123,Arjun Patel,+918721025347,Abu Dhabi,Abu Dhabi,UAE,17,3.3
+SUP0124,Samsung Supplier 124,Sai Singh,+919417377633,Lucknow,Uttar Pradesh,India,11,3.3
+SUP0125,Dell Supplier 125,Pooja Panda,+919604114475,Hyderabad,Telangana,India,9,4.5
+SUP0126,Maybelline Supplier 126,Ankita Rao,+918277121963,Kolkata,West Bengal,India,15,3.7
+SUP0127,Samsung Supplier 127,Anika Reddy,+917892442253,Jaipur,Rajasthan,India,8,3.6
+SUP0128,Lenovo Supplier 128,Krishna Kumar,+919370788647,Mumbai,Maharashtra,India,4,3.5
+SUP0129,Maybelline Supplier 129,Rahul Khan,+919018258729,Kolkata,West Bengal,India,11,3.3
+SUP0130,Boat Supplier 130,Rahul Rao,+917305714736,Chennai,Tamil Nadu,India,9,4.8
+SUP0131,HUL Supplier 131,Amit Mishra,+918825957977,Dubai,Dubai,UAE,5,4.1
+SUP0132,HP Supplier 132,Ankita Gupta,+917610900200,Lucknow,Uttar Pradesh,India,4,3.3
+SUP0133,Boat Supplier 133,Anika Shetty,+918239573053,Dubai,Dubai,UAE,16,3.4
+SUP0134,Boat Supplier 134,Rahul Mangaraj,+918169288485,Kochi,Kerala,India,18,4.1
+SUP0135,Sony Supplier 135,Anika Das,+918855548990,Bhubaneswar,Odisha,India,12,4.2
+SUP0136,Sony Supplier 136,Krishna Shetty,+919521673791,Bangalore,Karnataka,India,2,4.9
+SUP0137,Puma Supplier 137,Neha Das,+917752438459,Lucknow,Uttar Pradesh,India,17,4.1
+SUP0138,Puma Supplier 138,Reyansh Shetty,+918872111746,Bhubaneswar,Odisha,India,17,4.8
+SUP0139,Philips Supplier 139,Sara Joshi,+918378934717,Bhubaneswar,Odisha,India,5,4.7
+SUP0140,IKEA Supplier 140,Rahul Chatterjee,+918237886015,Pune,Maharashtra,India,14,4.6
+SUP0141,Samsung Supplier 141,Aarohi Patel,+918350840898,Ahmedabad,Gujarat,India,10,3.7
+SUP0142,Prestige Supplier 142,Soumya Verma,+917004943787,Dubai,Dubai,UAE,16,3.9
+SUP0143,Nestle Supplier 143,Diya Khan,+919141011556,Hyderabad,Telangana,India,16,4.5
+SUP0144,Puma Supplier 144,Pooja Singh,+918237075775,Hyderabad,Telangana,India,16,4.7
+SUP0145,Dell Supplier 145,Aarav Khan,+918027774780,Bhubaneswar,Odisha,India,7,3.7
+SUP0146,Tata Supplier 146,Sara Patel,+917965081954,Bangalore,Karnataka,India,5,4.0
+SUP0147,HP Supplier 147,Priya Mehta,+919185588660,Mumbai,Maharashtra,India,10,3.9
+SUP0148,Lakme Supplier 148,Krishna Rao,+919367665472,Bhubaneswar,Odisha,India,6,3.9
+SUP0149,Nestle Supplier 149,Vikram Singh,+917299832023,Jaipur,Rajasthan,India,10,4.5
+SUP0150,IKEA Supplier 150,Anaya Verma,+918147497835,Abu Dhabi,Abu Dhabi,UAE,2,3.7
