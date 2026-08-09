@@ -1,0 +1,33 @@
+Product_Category,Product_Sub_Category,Product_Count
+Automotive,Bike Accessories,36
+Automotive,Car Accessories,34
+Baby & Kids,Baby Care,27
+Baby & Kids,Kids Clothing,23
+Baby & Kids,Toys,34
+Beauty,Fragrance,28
+Beauty,Haircare,32
+Beauty,Makeup,40
+Beauty,Skincare,31
+Books,Business,23
+Books,Education,48
+Books,Fiction,28
+Electronics,Cameras,27
+Electronics,Headphones,25
+Electronics,Laptops,42
+Electronics,Smartphones,34
+Electronics,Televisions,25
+Fashion,Footwear,30
+Fashion,Men Clothing,35
+Fashion,Watches,27
+Fashion,Women Clothing,34
+Grocery,Beverages,28
+Grocery,Personal Care,31
+Grocery,Snacks,26
+Grocery,Staples,29
+Home & Kitchen,Cookware,30
+Home & Kitchen,Furniture,31
+Home & Kitchen,Home Decor,34
+Home & Kitchen,Kitchen Appliances,27
+Sports,Fitness Equipment,37
+Sports,Outdoor Sports,31
+Sports,Sportswear,33
