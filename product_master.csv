@@ -1,0 +1,1001 @@
+Product_ID,Product_Name,Product_Category,Product_Sub_Category,Brand,Product_Cost,Selling_Price,Launch_Date,Supplier_ID,Product_Rating,Product_Status
+PRD00001,Arihant Competitive Exam Guide - New Edition,Books,Education,Arihant,2475.14,3055.97,2022-10-14,SUP0035,4.4,Active
+PRD00002,Penguin The Alchemist Paperback - Standard,Books,Fiction,Penguin,1521.65,2050.91,2022-06-06,SUP0096,4.5,Active
+PRD00003,India Gate Brown Rice 1 kg - Value Pack,Grocery,Staples,India Gate,876.94,1082.8,2023-10-19,SUP0022,4.7,Active
+PRD00004,U.S. Polo Assn. Denim Jacket - Combo Pack,Fashion,Men Clothing,U.S. Polo Assn.,1262.73,1488.97,2020-02-01,SUP0109,3.5,Discontinued
+PRD00005,U.S. Polo Assn. Polo T-Shirt - New Edition,Fashion,Men Clothing,U.S. Polo Assn.,3686.75,5047.27,2020-07-29,SUP0092,3.4,Inactive
+PRD00006,Butterfly Wet Grinder 2L - New Edition,Home & Kitchen,Kitchen Appliances,Butterfly,4937.35,7313.34,2020-05-31,SUP0029,3.2,Active
+PRD00007,Penguin Business Psychology of Money - Value Pack,Books,Business,Penguin Business,1069.24,1279.13,2023-06-22,SUP0002,3.8,Active
+PRD00008,Pearson Python Programming Textbook - Value Pack,Books,Education,Pearson,746.7,932.44,2022-11-21,SUP0140,3.8,Active
+PRD00009,Decathlon Hiking Backpack 30L - Standard,Sports,Outdoor Sports,Decathlon,11574.05,17718.86,2021-09-08,SUP0105,3.4,Active
+PRD00010,Lakme Matte Lipstick - Combo Pack,Beauty,Makeup,Lakme,234.55,286.29,2022-04-30,SUP0144,3.7,Active
+PRD00011,Lay’s Classic Salted Chips - Premium,Grocery,Snacks,Lay’s,271.86,336.49,2020-10-23,SUP0129,3.7,Active
+PRD00012,JBL Tune 760NC Bluetooth - Combo Pack,Electronics,Headphones,JBL,8941.98,11950.5,2024-06-23,SUP0099,3.9,Active
+PRD00013,Allen Solly Cotton Formal Shirt - Premium,Fashion,Men Clothing,Allen Solly,2260.56,3435.84,2024-06-20,SUP0114,3.6,Active
+PRD00014,Lay’s Classic Salted Chips - Value Pack,Grocery,Snacks,Lay’s,169.87,258.09,2022-06-14,SUP0064,3.8,Active
+PRD00015,U.S. Polo Assn. Denim Jacket - Premium,Fashion,Men Clothing,U.S. Polo Assn.,4884.56,5811.56,2023-04-15,SUP0083,4.5,Active
+PRD00016,Himalaya Neem Face Wash - Combo Pack,Grocery,Personal Care,Himalaya,286.14,485.87,2021-10-14,SUP0073,3.8,Active
+PRD00017,Himalaya Baby Baby Powder 200g - Premium,Baby & Kids,Baby Care,Himalaya Baby,1631.54,2668.07,2023-11-15,SUP0002,4.3,Active
+PRD00018,D’Decor Designer Cushion Covers - Value Pack,Home & Kitchen,Home Decor,D’Decor,3535.63,4756.53,2022-08-05,SUP0105,4.6,Active
+PRD00019,McGraw Hill Quantitative Aptitude Book - New Edition,Books,Education,McGraw Hill,879.98,1237.47,2020-01-06,SUP0134,3.7,Active
+PRD00020,Morphy Richards OTG 28L Oven - Standard,Home & Kitchen,Kitchen Appliances,Morphy Richards,7288.45,9271.59,2024-09-03,SUP0120,4.1,Active
+PRD00021,Lakme Matte Lipstick,Beauty,Makeup,Lakme,579.38,913.54,2020-11-05,SUP0149,3.3,Active
+PRD00022,Tresemme Hair Mask Repair - Standard,Beauty,Haircare,Tresemme,729.62,1125.72,2024-06-04,SUP0103,4.5,Active
+PRD00023,Kobo Adjustable Dumbbell Set - Combo Pack,Sports,Fitness Equipment,Kobo,11868.45,19236.32,2024-05-12,SUP0108,4.1,Active
+PRD00024,Puma Sports Jacket - Premium,Sports,Sportswear,Puma,4181.07,5725.02,2024-04-16,SUP0048,4.5,Inactive
+PRD00025,Ambrane Car Charger 36W - Value Pack,Automotive,Car Accessories,Ambrane,4641.15,5711.87,2020-11-02,SUP0137,3.6,Active
+PRD00026,Apple iPhone 14 128GB - Combo Pack,Electronics,Smartphones,Apple,31880.68,37962.25,2020-01-17,SUP0146,4.3,Active
+PRD00027,Oppo F21 Pro - Premium,Electronics,Smartphones,Oppo,46476.95,57130.37,2020-07-13,SUP0102,3.3,Active
+PRD00028,Too Yumm Foxnuts Peri Peri - Standard,Grocery,Snacks,Too Yumm,77.86,124.5,2020-08-23,SUP0107,3.6,Active
+PRD00029,Studds Ninja Elite Helmet - Premium,Automotive,Bike Accessories,Studds,4097.63,6060.82,2020-10-16,SUP0144,4.7,Active
+PRD00030,Urban Ladder Sheesham Coffee Table - Value Pack,Home & Kitchen,Furniture,Urban Ladder,14580.43,21755.49,2021-05-29,SUP0036,3.4,Active
+PRD00031,HarperCollins The Monk Who Sold His Ferrari - Value Pack,Books,Fiction,HarperCollins,939.96,1182.1,2021-10-21,SUP0088,4.4,Inactive
+PRD00032,Funskool Monopoly India Edition - Standard,Baby & Kids,Toys,Funskool,1789.34,2739.67,2021-08-23,SUP0128,4.2,Active
+PRD00033,Xiaomi Redmi 12 5G - Value Pack,Electronics,Smartphones,Xiaomi,31944.28,50078.71,2022-08-22,SUP0146,3.9,Active
+PRD00034,Allen Solly Cotton Formal Shirt - Combo Pack,Fashion,Men Clothing,Allen Solly,1465.78,1940.07,2023-07-07,SUP0012,4.1,Active
+PRD00035,Prestige Electric Kettle 1.8L - Premium,Home & Kitchen,Kitchen Appliances,Prestige,3154.63,4981.34,2023-04-26,SUP0075,3.4,Active
+PRD00036,Canon EOS R50 Mirrorless - Standard,Electronics,Cameras,Canon,9167.76,13283.03,2023-07-23,SUP0086,4.3,Active
+PRD00037,Mi Mi 43 inch 4K TV - New Edition,Electronics,Televisions,Mi,114328.46,143530.96,2021-09-09,SUP0005,4.4,Inactive
+PRD00038,Arihant Competitive Exam Guide - Standard,Books,Education,Arihant,1945.61,2727.82,2020-08-11,SUP0055,3.6,Active
+PRD00039,Fabindia Cotton Saree - New Edition,Fashion,Women Clothing,Fabindia,1890.07,3172.38,2022-04-07,SUP0034,4.6,Active
+PRD00040,L’Oreal Hair Serum Smooth - Standard,Beauty,Haircare,L’Oreal,1151.24,1650.13,2024-10-29,SUP0039,3.2,Active
+PRD00041,Arihant Competitive Exam Guide - Standard Silver,Books,Education,Arihant,2065.67,2702.23,2021-06-25,SUP0123,4.7,Active
+PRD00042,Prestige Induction Cooktop - Standard,Home & Kitchen,Kitchen Appliances,Prestige,1689.98,2561.86,2021-02-15,SUP0112,4.2,Inactive
+PRD00043,Nilkamal Shoe Rack 4 Door - Value Pack,Home & Kitchen,Furniture,Nilkamal,28823.86,47351.25,2021-12-07,SUP0066,3.5,Active
+PRD00044,Nikon D5600 DSLR Kit - New Edition,Electronics,Cameras,Nikon,59526.38,74734.66,2024-09-20,SUP0102,4.0,Active
+PRD00045,Pond’s Light Moisturiser Gel - Combo Pack,Grocery,Personal Care,Pond’s,570.82,707.29,2020-05-01,SUP0010,3.9,Active
+PRD00046,Sennheiser CX True Wireless - Standard,Electronics,Headphones,Sennheiser,10294.41,13115.63,2022-11-10,SUP0003,4.1,Active
+PRD00047,Nike Dry Fit Training T-Shirt - Premium,Sports,Sportswear,Nike,2376.63,3164.57,2023-06-03,SUP0136,3.6,Active
+PRD00048,Lenovo ThinkPad E14 - Standard,Electronics,Laptops,Lenovo,90188.58,130767.72,2024-04-03,SUP0005,3.8,Active
+PRD00049,HarperCollins Ikigai Hardcover,Books,Fiction,HarperCollins,1714.66,2007.87,2021-12-21,SUP0055,3.6,Active
+PRD00050,Canon EOS R50 Mirrorless,Electronics,Cameras,Canon,33498.19,49560.62,2020-11-27,SUP0095,4.0,Active
+PRD00051,Rupa Wise and Otherwise - Value Pack,Books,Fiction,Rupa,1657.82,2171.52,2021-04-22,SUP0070,4.0,Active
+PRD00052,Samsung Frame 55 inch QLED TV - Premium,Electronics,Televisions,Samsung,60631.69,88366.0,2023-01-14,SUP0079,4.2,Active
+PRD00053,Mee Mee Feeding Bottle Set - New Edition,Baby & Kids,Baby Care,Mee Mee,667.78,1024.57,2020-11-13,SUP0099,3.4,Active
+PRD00054,Axor Riding Jacket - Premium,Automotive,Bike Accessories,Axor,7451.25,10387.96,2022-08-21,SUP0137,4.7,Active
+PRD00055,Colorbar Liquid Foundation,Beauty,Makeup,Colorbar,1450.97,2089.19,2023-02-19,SUP0117,4.4,Active
+PRD00056,Roadster Hooded Sweatshirt,Fashion,Men Clothing,Roadster,3654.36,5203.19,2021-06-15,SUP0105,3.5,Inactive
+PRD00057,HP Pavilion 15 Ryzen 5 - Premium,Electronics,Laptops,HP,67562.93,84565.61,2021-03-13,SUP0004,4.8,Active
+PRD00058,Lakme Matte Lipstick - Value Pack,Beauty,Makeup,Lakme,1258.12,1613.63,2021-12-26,SUP0107,3.4,Active
+PRD00059,Portfolio Zero to One,Books,Business,Portfolio,1754.27,2235.63,2025-11-26,SUP0078,3.6,Discontinued
+PRD00060,Bajaj Mixer Grinder GX1,Home & Kitchen,Kitchen Appliances,Bajaj,2097.17,3224.42,2020-10-13,SUP0065,4.0,Active
+PRD00061,Faces Canada Weightless Matte Lipstick - Standard,Beauty,Makeup,Faces Canada,755.8,1212.95,2025-08-16,SUP0079,4.5,Active
+PRD00062,Nivea Men Face Wash - Premium,Grocery,Personal Care,Nivea,497.38,607.84,2023-09-10,SUP0131,3.4,Active
+PRD00063,SG Cricket Bat English Willow - Standard,Sports,Outdoor Sports,SG,11953.24,16969.87,2021-08-15,SUP0147,3.2,Active
+PRD00064,Wiley Machine Learning Guide,Books,Education,Wiley,2341.48,3156.43,2024-10-09,SUP0118,3.4,Active
+PRD00065,Allen Solly Chino Trousers - Standard,Fashion,Men Clothing,Allen Solly,3571.38,4313.62,2022-11-22,SUP0080,3.5,Active
+PRD00066,Home Centre Cotton Bedsheet Set - Premium,Home & Kitchen,Home Decor,Home Centre,2633.07,3086.98,2022-06-11,SUP0077,3.8,Active
+PRD00067,Johnson’s Baby Oil 500ml - New Edition,Baby & Kids,Baby Care,Johnson’s,831.1,1209.11,2022-06-12,SUP0090,3.4,Active
+PRD00068,Bikaji Soan Papdi Box - Value Pack,Grocery,Snacks,Bikaji,112.99,155.49,2021-11-01,SUP0089,4.1,Active
+PRD00069,L’Oreal Keratin Shampoo 580ml - New Edition,Beauty,Haircare,L’Oreal,603.75,870.18,2021-09-17,SUP0033,3.9,Active
+PRD00070,Bella Vita CEO Man Perfume - Premium,Beauty,Fragrance,Bella Vita,1581.37,1948.55,2023-09-09,SUP0026,4.4,Active
+PRD00071,Strauss Yoga Mat 6mm - Value Pack,Sports,Fitness Equipment,Strauss,34903.78,42780.58,2021-12-20,SUP0024,4.0,Active
+PRD00072,Rupa Wise and Otherwise - Premium,Books,Fiction,Rupa,407.81,491.0,2022-04-14,SUP0091,3.4,Active
+PRD00073,Biba Anarkali Dress - Combo Pack,Fashion,Women Clothing,Biba,3120.5,4040.82,2022-08-28,SUP0032,4.2,Discontinued
+PRD00074,Neutrogena Hydrating Moisturizer - Standard,Beauty,Skincare,Neutrogena,534.06,793.26,2021-06-15,SUP0074,4.8,Active
+PRD00075,Acer Swift Go 14 - New Edition,Electronics,Laptops,Acer,91811.43,116724.12,2022-10-08,SUP0106,4.0,Active
+PRD00076,Biotique Bhringraj Hair Oil,Beauty,Haircare,Biotique,797.52,1275.08,2023-11-16,SUP0008,4.6,Active
+PRD00077,GoPro Hero 12 Black - Standard,Electronics,Cameras,GoPro,57823.3,90103.66,2020-06-04,SUP0033,3.9,Active
+PRD00078,SG Cricket Bat English Willow - Value Pack,Sports,Outdoor Sports,SG,9139.08,15220.59,2023-12-26,SUP0138,4.8,Active
+PRD00079,Tata Sampann Masoor Dal 1 kg - Standard,Grocery,Staples,Tata Sampann,326.26,479.86,2025-02-19,SUP0128,4.2,Active
+PRD00080,TCL TCL 43 inch QLED TV - Standard,Electronics,Televisions,TCL,56388.08,96534.8,2024-11-02,SUP0048,4.6,Discontinued
+PRD00081,Max Kids School Shoes - Value Pack,Baby & Kids,Kids Clothing,Max Kids,1743.15,2760.37,2023-05-20,SUP0015,4.2,Active
+PRD00082,Oxford Dictionary Thesaurus Set - Standard,Books,Education,Oxford,2058.99,2638.33,2023-11-28,SUP0039,4.3,Active
+PRD00083,Boldfit Push Up Bar Set - New Edition,Sports,Fitness Equipment,Boldfit,19593.73,31379.45,2024-08-26,SUP0068,3.5,Active
+PRD00084,U.S. Polo Assn. Denim Jacket - Value Pack,Fashion,Men Clothing,U.S. Polo Assn.,2985.83,5122.3,2023-05-27,SUP0123,3.2,Active
+PRD00085,Apple MacBook Air M3 - Standard,Electronics,Laptops,Apple,57425.14,70756.41,2020-03-13,SUP0041,4.0,Active
+PRD00086,Pond’s Light Moisturiser Gel - Premium,Grocery,Personal Care,Pond’s,214.78,287.26,2022-12-22,SUP0096,4.5,Active
+PRD00087,Babyhug Winter Jacket - Value Pack,Baby & Kids,Kids Clothing,Babyhug,1833.62,2933.89,2023-07-28,SUP0046,3.7,Active
+PRD00088,Boult Rover Pro Earbuds - New Edition,Electronics,Headphones,Boult,4665.44,6933.01,2021-09-20,SUP0120,3.5,Active
+PRD00089,Oxford Dictionary Thesaurus Set - New Edition,Books,Education,Oxford,2767.26,3587.06,2022-06-01,SUP0017,3.3,Discontinued
+PRD00090,Red Bull Energy Drink Pack - Standard,Grocery,Beverages,Red Bull,303.61,459.61,2022-07-31,SUP0088,3.3,Active
+PRD00091,boAt Airdopes 141 TWS - Combo Pack,Electronics,Headphones,boAt,9051.14,11317.83,2022-12-08,SUP0113,3.7,Active
+PRD00092,Home Centre Dining Table 4 Seater - New Edition,Home & Kitchen,Furniture,Home Centre,24233.0,39353.18,2024-11-14,SUP0082,3.6,Inactive
+PRD00093,Wonderchef Ceramic Cookware Set - Value Pack,Home & Kitchen,Cookware,Wonderchef,1518.17,2432.32,2025-06-03,SUP0114,3.9,Active
+PRD00094,Rynox Riding Gloves Urban - New Edition,Automotive,Bike Accessories,Rynox,3827.86,5208.49,2025-03-15,SUP0026,4.0,Inactive
+PRD00095,Mothercare Baby Romper Set - Premium,Baby & Kids,Kids Clothing,Mothercare,1186.65,1641.63,2024-04-09,SUP0112,4.6,Active
+PRD00096,Sennheiser HD 450BT Headphones - Standard,Electronics,Headphones,Sennheiser,4176.33,6799.61,2021-05-13,SUP0141,3.9,Active
+PRD00097,Apple iPhone 13 128GB - New Edition,Electronics,Smartphones,Apple,34380.0,52772.56,2021-07-02,SUP0057,4.4,Active
+PRD00098,Nivia Football Size 5 - Standard,Sports,Outdoor Sports,Nivia,6942.52,8176.46,2022-06-18,SUP0053,3.5,Active
+PRD00099,Godrej Interio Steel Almirah - Combo Pack,Home & Kitchen,Furniture,Godrej Interio,44714.74,58733.65,2024-02-11,SUP0089,4.7,Active
+PRD00100,Maybelline Colossal Mascara,Beauty,Makeup,Maybelline,1230.53,1513.34,2020-06-17,SUP0055,4.5,Active
+PRD00101,Sugar Smudge Me Not Lipstick - Standard,Beauty,Makeup,Sugar,1126.62,1702.14,2025-04-12,SUP0086,4.2,Active
+PRD00102,Bergmann Tyre Inflator Digital - Combo Pack,Automotive,Car Accessories,Bergmann,4663.26,5473.51,2021-01-04,SUP0085,3.4,Inactive
+PRD00103,Hot Wheels Die Cast Car Pack - Standard,Baby & Kids,Toys,Hot Wheels,3176.84,4204.1,2024-02-05,SUP0087,4.3,Inactive
+PRD00104,Himalaya Herbal Shampoo 650ml - New Edition,Grocery,Personal Care,Himalaya,254.9,405.77,2023-06-18,SUP0138,3.3,Active
+PRD00105,Canon EOS 1500D DSLR Kit,Electronics,Cameras,Canon,91101.28,119295.29,2023-08-07,SUP0057,4.6,Active
+PRD00106,Timex Expedition Watch - New Edition,Fashion,Watches,Timex,3976.22,5309.06,2020-01-30,SUP0088,3.7,Active
+PRD00107,Studds Riding Gloves - Value Pack,Automotive,Bike Accessories,Studds,4245.3,6083.72,2020-04-03,SUP0016,3.4,Active
+PRD00108,Decathlon Hiking Backpack 30L,Sports,Outdoor Sports,Decathlon,4517.94,5498.48,2023-12-20,SUP0149,3.6,Active
+PRD00109,Nescafe Classic Coffee 200g - Premium,Grocery,Beverages,Nescafe,352.96,477.52,2021-04-07,SUP0022,4.5,Active
+PRD00110,Ikea Floor Lamp - Combo Pack,Home & Kitchen,Home Decor,Ikea,4779.85,6295.53,2022-08-11,SUP0055,4.7,Active
+PRD00111,Max Kids Printed Shorts - Standard,Baby & Kids,Kids Clothing,Max Kids,1902.94,2588.92,2022-07-17,SUP0073,4.0,Active
+PRD00112,Strauss Yoga Mat 6mm,Sports,Fitness Equipment,Strauss,16497.0,23401.25,2020-06-05,SUP0045,3.3,Active
+PRD00113,Lego Classic Building Blocks Set,Baby & Kids,Toys,Lego,2742.37,3375.54,2022-10-16,SUP0023,3.4,Active
+PRD00114,Apple MacBook Air M3 - Premium,Electronics,Laptops,Apple,34745.07,54135.94,2021-12-14,SUP0114,3.8,Active
+PRD00115,Godrej Interio 3 Door Wardrobe - New Edition,Home & Kitchen,Furniture,Godrej Interio,41999.23,57507.47,2020-11-08,SUP0091,3.5,Active
+PRD00116,WOW Skin Science Onion Hair Oil - Value Pack,Beauty,Haircare,WOW Skin Science,1076.56,1346.7,2022-04-01,SUP0012,4.0,Active
+PRD00117,Paper Boat Mixed Fruit Juice Pack,Grocery,Beverages,Paper Boat,413.01,526.52,2024-09-01,SUP0055,3.4,Active
+PRD00118,Adidas Ultraboost Sneakers - Standard,Fashion,Footwear,Adidas,9593.83,11814.34,2024-10-11,SUP0020,4.1,Inactive
+PRD00119,Dove Body Wash 500ml - Standard,Grocery,Personal Care,Dove,196.41,313.4,2020-03-14,SUP0113,4.3,Active
+PRD00120,Plum Night Repair Cream - New Edition,Beauty,Skincare,Plum,1032.96,1402.64,2025-03-18,SUP0138,3.8,Discontinued
+PRD00121,Bosch Car Vacuum Cleaner - Standard,Automotive,Car Accessories,Bosch,4919.33,5850.33,2020-10-12,SUP0044,4.2,Inactive
+PRD00122,Timex Expedition Watch - Value Pack,Fashion,Watches,Timex,9448.46,12136.81,2020-03-08,SUP0073,3.8,Active
+PRD00123,boAt Rockerz 550 Wireless - New Edition,Electronics,Headphones,boAt,6275.18,9640.39,2024-01-19,SUP0034,4.7,Active
+PRD00124,Wavex Ceramic Wax Polish - Standard,Automotive,Car Accessories,Wavex,4100.97,5368.77,2022-09-20,SUP0054,4.3,Active
+PRD00125,Vero Moda Floral Midi Dress - Value Pack,Fashion,Women Clothing,Vero Moda,4378.62,6257.35,2025-05-02,SUP0072,4.2,Active
+PRD00126,Nilkamal Shoe Rack 4 Door,Home & Kitchen,Furniture,Nilkamal,34780.69,48719.03,2023-02-22,SUP0005,4.6,Active
+PRD00127,HarperCollins The Monk Who Sold His Ferrari - New Edition,Books,Fiction,HarperCollins,2071.97,2482.11,2024-05-12,SUP0132,4.6,Active
+PRD00128,Adidas Track Pants Slim Fit,Sports,Sportswear,Adidas,2006.17,3146.07,2021-02-25,SUP0124,3.4,Active
+PRD00129,WOW Skin Science Apple Cider Shampoo - New Edition,Beauty,Haircare,WOW Skin Science,790.39,1286.53,2025-06-15,SUP0001,4.2,Active
+PRD00130,Adidas Training Jacket - Premium,Sports,Sportswear,Adidas,3200.87,3850.84,2020-04-11,SUP0031,4.5,Active
+PRD00131,Faces Canada Ultime Pro Primer - Standard,Beauty,Makeup,Faces Canada,1032.44,1471.84,2020-06-30,SUP0080,3.5,Active
+PRD00132,Max Kids School Shoes - Standard,Baby & Kids,Kids Clothing,Max Kids,2325.75,2899.16,2020-12-21,SUP0022,3.8,Active
+PRD00133,Pigeon Non-Stick Tawa - Premium,Home & Kitchen,Cookware,Pigeon,3324.19,5249.08,2020-12-07,SUP0018,4.5,Active
+PRD00134,Pigeon Granite Fry Pan,Home & Kitchen,Cookware,Pigeon,4282.5,5723.98,2025-09-30,SUP0075,4.0,Active
+PRD00135,Boldfit Push Up Bar Set - New Edition XL,Sports,Fitness Equipment,Boldfit,6525.51,9963.41,2025-01-11,SUP0035,4.4,Active
+PRD00136,Babyhug Winter Jacket - Premium,Baby & Kids,Kids Clothing,Babyhug,1217.14,1828.7,2023-12-07,SUP0020,4.2,Active
+PRD00137,Rynox Mobile Holder Bike - Combo Pack,Automotive,Bike Accessories,Rynox,3488.18,5204.98,2024-10-14,SUP0137,3.3,Active
+PRD00138,U.S. Polo Assn. Denim Jacket - Combo Pack Black,Fashion,Men Clothing,U.S. Polo Assn.,4989.0,6178.43,2020-11-05,SUP0064,4.1,Active
+PRD00139,Noise ColorFit Smart Watch - Premium,Fashion,Watches,Noise,9105.88,12096.3,2024-01-02,SUP0017,4.1,Active
+PRD00140,3M Microfiber Cleaning Kit - Combo Pack,Automotive,Car Accessories,3M,1761.13,2500.21,2021-07-03,SUP0003,4.6,Active
+PRD00141,Ikea Floor Lamp,Home & Kitchen,Home Decor,Ikea,4372.87,5528.58,2023-04-26,SUP0118,3.8,Active
+PRD00142,Philips Mixer Grinder 750W - New Edition,Home & Kitchen,Kitchen Appliances,Philips,6848.89,9559.8,2025-11-11,SUP0082,4.0,Active
+PRD00143,Vu Vu Masterpiece 65 inch - Combo Pack,Electronics,Televisions,Vu,116162.35,143786.08,2023-03-25,SUP0097,3.7,Active
+PRD00144,Plum Night Repair Cream - New Edition 2025,Beauty,Skincare,Plum,1211.44,1424.37,2020-12-23,SUP0128,4.0,Active
+PRD00145,Wavex Car Shampoo 5L - Combo Pack,Automotive,Car Accessories,Wavex,4849.7,6735.91,2025-01-24,SUP0038,3.3,Active
+PRD00146,Pearson Python Programming Textbook - Premium,Books,Education,Pearson,1116.13,1832.98,2021-07-12,SUP0037,3.2,Active
+PRD00147,Bosch Wiper Blade Set - Combo Pack,Automotive,Car Accessories,Bosch,1656.6,2361.83,2023-06-25,SUP0025,4.0,Inactive
+PRD00148,Sennheiser CX True Wireless - Standard Blue,Electronics,Headphones,Sennheiser,8243.86,10695.17,2020-01-01,SUP0034,3.9,Active
+PRD00149,Fisher-Price Activity Walker - Standard,Baby & Kids,Toys,Fisher-Price,808.7,1253.72,2020-10-02,SUP0089,4.1,Active
+PRD00150,Prestige Non-Stick Cookware Set - New Edition,Home & Kitchen,Cookware,Prestige,4784.26,6283.56,2020-05-30,SUP0084,4.3,Active
+PRD00151,Nivea Moisturising Lotion 400ml - Standard,Grocery,Personal Care,Nivea,217.66,321.9,2023-03-19,SUP0025,4.1,Active
+PRD00152,Hamleys Soft Teddy Bear - Premium,Baby & Kids,Toys,Hamleys,1308.76,1821.05,2025-03-08,SUP0058,3.4,Active
+PRD00153,Nike Running Shorts - New Edition,Sports,Sportswear,Nike,4522.28,5742.62,2024-10-26,SUP0019,3.5,Active
+PRD00154,Studds Ninja Elite Helmet - Value Pack,Automotive,Bike Accessories,Studds,7454.09,11277.92,2023-01-08,SUP0125,4.6,Active
+PRD00155,OnePlus Nord 3 5G,Electronics,Smartphones,OnePlus,53023.56,63037.49,2022-07-25,SUP0089,4.0,Active
+PRD00156,Bloomsbury Harry Potter Box Set - Standard,Books,Fiction,Bloomsbury,2047.62,2842.26,2023-10-11,SUP0080,4.5,Active
+PRD00157,Nike Air Zoom Running Shoes - Premium,Fashion,Footwear,Nike,9326.75,12440.94,2022-09-10,SUP0077,3.7,Active
+PRD00158,Timex Classic Round Watch,Fashion,Watches,Timex,7368.24,9587.3,2023-10-21,SUP0148,4.6,Active
+PRD00159,Funskool Board Game Family Pack,Baby & Kids,Toys,Funskool,2307.61,3313.62,2020-01-14,SUP0084,3.2,Active
+PRD00160,Pond’s Face Wash 100g - New Edition,Grocery,Personal Care,Pond’s,514.72,645.51,2024-09-17,SUP0064,4.4,Active
+PRD00161,Haldiram’s Namkeen Mixture 1kg,Grocery,Snacks,Haldiram’s,251.3,292.38,2020-12-02,SUP0020,4.2,Active
+PRD00162,Pearson Python Programming Textbook - New Edition,Books,Education,Pearson,2171.5,3094.12,2020-12-25,SUP0064,3.8,Inactive
+PRD00163,Harper Business Built to Last - Combo Pack,Books,Business,Harper Business,1556.91,1938.56,2023-06-17,SUP0099,3.9,Active
+PRD00164,Decathlon Hiking Backpack 30L - Value Pack,Sports,Outdoor Sports,Decathlon,8640.73,11939.97,2021-07-23,SUP0096,3.5,Active
+PRD00165,Wiley Financial Modeling Book - New Edition,Books,Business,Wiley,880.12,1131.88,2023-06-02,SUP0092,3.5,Active
+PRD00166,Aurelia A-Line Kurta - Premium,Fashion,Women Clothing,Aurelia,1463.97,2471.52,2022-03-03,SUP0115,4.6,Active
+PRD00167,Pearson Statistics for Business,Books,Education,Pearson,1518.03,2599.96,2025-03-02,SUP0060,3.3,Active
+PRD00168,Tata Sampann Toor Dal 2 kg,Grocery,Staples,Tata Sampann,968.37,1255.16,2025-11-09,SUP0060,4.1,Active
+PRD00169,Pond’s Light Moisturiser Gel,Grocery,Personal Care,Pond’s,551.5,662.32,2025-03-01,SUP0045,4.6,Active
+PRD00170,Home Centre Cotton Bedsheet Set - New Edition,Home & Kitchen,Home Decor,Home Centre,1986.11,2793.9,2025-09-10,SUP0056,4.3,Active
+PRD00171,Lakme Matte Lipstick - Premium,Beauty,Makeup,Lakme,441.88,577.53,2021-04-15,SUP0017,3.5,Active
+PRD00172,Colorbar Liquid Foundation - Premium,Beauty,Makeup,Colorbar,1111.03,1426.02,2023-01-09,SUP0137,3.3,Active
+PRD00173,Aurelia A-Line Kurta - Combo Pack,Fashion,Women Clothing,Aurelia,3274.44,5256.03,2021-03-05,SUP0091,3.4,Active
+PRD00174,Fisher-Price Activity Walker,Baby & Kids,Toys,Fisher-Price,3630.18,4851.65,2025-05-22,SUP0122,3.8,Active
+PRD00175,Funskool Monopoly India Edition - Premium,Baby & Kids,Toys,Funskool,2410.03,2914.18,2021-05-08,SUP0150,4.3,Active
+PRD00176,Lakme 9to5 Compact Powder - New Edition,Beauty,Makeup,Lakme,949.09,1262.62,2020-02-28,SUP0080,3.3,Discontinued
+PRD00177,Samsung Galaxy S23 FE 256GB - Combo Pack,Electronics,Smartphones,Samsung,37547.72,59742.06,2023-09-01,SUP0099,3.4,Active
+PRD00178,Pampers Premium Care Diapers - Combo Pack,Baby & Kids,Baby Care,Pampers,732.87,915.66,2021-06-22,SUP0016,4.5,Active
+PRD00179,Dove Body Wash 500ml,Grocery,Personal Care,Dove,268.16,357.75,2020-05-11,SUP0103,4.1,Active
+PRD00180,Lay’s Magic Masala Chips - New Edition,Grocery,Snacks,Lay’s,201.89,244.37,2022-11-12,SUP0005,3.3,Inactive
+PRD00181,Casio G-Shock Digital Watch - Combo Pack,Fashion,Watches,Casio,5568.3,7658.5,2022-01-13,SUP0117,3.4,Active
+PRD00182,L’Oreal Revitalift Face Serum - Combo Pack,Beauty,Skincare,L’Oreal,2428.48,3236.61,2023-12-02,SUP0084,3.2,Active
+PRD00183,Penguin The Silent Patient Paperback - New Edition,Books,Fiction,Penguin,800.86,1335.34,2021-04-15,SUP0136,4.2,Active
+PRD00184,Samsung Galaxy A54 5G 128GB - Premium,Electronics,Smartphones,Samsung,36346.79,46870.0,2021-12-11,SUP0096,3.3,Active
+PRD00185,Rupa Wings of Fire Paperback - Value Pack,Books,Fiction,Rupa,2002.51,2835.91,2023-02-19,SUP0125,4.4,Active
+PRD00186,OnePlus Nord 3 5G - Standard,Electronics,Smartphones,OnePlus,16970.54,22808.6,2023-08-21,SUP0007,3.8,Active
+PRD00187,Home Centre Dining Table 4 Seater - Combo Pack,Home & Kitchen,Furniture,Home Centre,40825.78,54355.05,2021-04-14,SUP0035,3.7,Active
+PRD00188,W Palazzo Set - Combo Pack,Fashion,Women Clothing,W,929.11,1486.1,2021-03-22,SUP0075,3.6,Active
+PRD00189,Paper Boat Mixed Fruit Juice Pack - New Edition,Grocery,Beverages,Paper Boat,508.67,738.1,2025-09-10,SUP0108,3.2,Active
+PRD00190,Dove Hair Fall Conditioner,Beauty,Haircare,Dove,400.06,591.06,2020-05-20,SUP0130,3.7,Active
+PRD00191,Fortune Basmati Rice 1 kg - Standard,Grocery,Staples,Fortune,350.18,478.27,2020-08-13,SUP0047,3.9,Inactive
+PRD00192,Spaces Bath Towel Set - Standard,Home & Kitchen,Home Decor,Spaces,3503.03,5150.42,2024-02-04,SUP0129,3.9,Active
+PRD00193,Pigeon Granite Fry Pan - Value Pack,Home & Kitchen,Cookware,Pigeon,5189.73,6649.99,2022-11-13,SUP0025,4.1,Active
+PRD00194,Acer Swift Go 14 - Standard,Electronics,Laptops,Acer,63467.12,84782.74,2020-12-03,SUP0118,4.6,Active
+PRD00195,Prestige Non-Stick Cookware Set - Value Pack,Home & Kitchen,Cookware,Prestige,2991.69,4599.25,2024-12-08,SUP0018,4.6,Active
+PRD00196,Puma DryCELL T-Shirt,Sports,Sportswear,Puma,4891.25,5853.41,2021-12-03,SUP0085,3.7,Active
+PRD00197,Johnson’s Baby Shampoo 200ml - Value Pack,Baby & Kids,Baby Care,Johnson’s,1044.27,1563.06,2022-10-20,SUP0113,3.9,Active
+PRD00198,Nikon D5600 DSLR Kit,Electronics,Cameras,Nikon,41471.91,63371.81,2021-07-31,SUP0083,4.3,Active
+PRD00199,Nivia Basketball Official Size,Sports,Outdoor Sports,Nivia,6097.69,7464.26,2022-09-20,SUP0062,3.2,Active
+PRD00200,Harper Business Built to Last - Value Pack,Books,Business,Harper Business,881.12,1390.93,2022-02-20,SUP0078,4.3,Active
+PRD00201,Maybelline Fit Me Foundation,Beauty,Makeup,Maybelline,880.81,1100.53,2024-12-23,SUP0115,4.6,Inactive
+PRD00202,Fogg Fresh Deodorant Pack - Combo Pack,Beauty,Fragrance,Fogg,1449.13,1698.95,2024-03-11,SUP0011,4.4,Active
+PRD00203,Himalaya Neem Face Wash,Grocery,Personal Care,Himalaya,560.64,693.92,2023-06-24,SUP0096,4.2,Active
+PRD00204,Fastrack Casual Analog Watch - Value Pack,Fashion,Watches,Fastrack,9337.97,12877.54,2023-07-12,SUP0112,4.3,Inactive
+PRD00205,Himalaya Baby Baby Powder 200g - Premium Pack of 2,Baby & Kids,Baby Care,Himalaya Baby,1483.76,1836.56,2020-05-27,SUP0039,3.3,Active
+PRD00206,Engage Pocket Perfume Pack,Beauty,Fragrance,Engage,1571.58,2469.66,2020-10-24,SUP0091,3.6,Active
+PRD00207,Nivea Men Face Wash - New Edition,Grocery,Personal Care,Nivea,598.76,760.82,2021-04-25,SUP0115,4.1,Active
+PRD00208,Dove Daily Shine Shampoo - New Edition,Beauty,Haircare,Dove,1406.0,1640.22,2021-06-21,SUP0013,4.6,Active
+PRD00209,Adidas Ultraboost Sneakers - Combo Pack,Fashion,Footwear,Adidas,2304.27,2686.97,2022-01-20,SUP0072,4.2,Active
+PRD00210,boAt Airdopes 141 TWS - Premium,Electronics,Headphones,boAt,5368.96,8543.1,2021-11-21,SUP0056,3.7,Active
+PRD00211,Aurelia Ethnic Dress - New Edition,Fashion,Women Clothing,Aurelia,3133.44,5256.9,2020-05-07,SUP0050,4.5,Active
+PRD00212,Prestige Induction Pressure Cooker - Value Pack,Home & Kitchen,Cookware,Prestige,3884.63,4583.71,2022-09-27,SUP0024,3.9,Active
+PRD00213,Strauss Yoga Mat 6mm - Combo Pack,Sports,Fitness Equipment,Strauss,25143.76,30058.82,2021-01-25,SUP0013,3.9,Active
+PRD00214,Studds Riding Gloves - Premium,Automotive,Bike Accessories,Studds,9681.72,11991.6,2020-02-13,SUP0076,4.0,Discontinued
+PRD00215,Ambrane Car Charger 36W - New Edition,Automotive,Car Accessories,Ambrane,1592.23,2360.21,2020-04-18,SUP0031,4.1,Active
+PRD00216,India Gate Brown Rice 1 kg - Combo Pack,Grocery,Staples,India Gate,491.54,665.1,2022-02-10,SUP0029,3.2,Inactive
+PRD00217,Peter England Checked Casual Shirt - Value Pack,Fashion,Men Clothing,Peter England,4305.41,6034.52,2024-02-11,SUP0077,4.2,Active
+PRD00218,OnePlus Nord CE 3 Lite 5G,Electronics,Smartphones,OnePlus,32545.86,48034.11,2023-11-12,SUP0061,4.1,Active
+PRD00219,Vero Moda Denim Jacket - Combo Pack,Fashion,Women Clothing,Vero Moda,2808.87,4543.62,2025-05-03,SUP0074,4.0,Active
+PRD00220,Steelbird Air SBA Helmet - Combo Pack,Automotive,Bike Accessories,Steelbird,6911.31,9776.23,2022-11-11,SUP0055,4.6,Active
+PRD00221,Lego City Police Car Set - Premium,Baby & Kids,Toys,Lego,990.81,1325.61,2024-12-10,SUP0003,4.4,Active
+PRD00222,Harper Business Built to Last - New Edition,Books,Business,Harper Business,547.09,883.48,2024-02-12,SUP0104,4.6,Inactive
+PRD00223,Pond’s Face Wash 100g - Standard,Grocery,Personal Care,Pond’s,188.95,307.56,2024-04-03,SUP0141,3.9,Active
+PRD00224,Wonderchef Stainless Steel Kadai - Standard,Home & Kitchen,Cookware,Wonderchef,5901.73,8383.38,2023-04-30,SUP0028,4.2,Active
+PRD00225,Wiley Deep Learning Textbook - New Edition,Books,Education,Wiley,848.71,1213.76,2025-06-15,SUP0031,4.7,Active
+PRD00226,Fujifilm Instax Mini 12 Camera - Premium,Electronics,Cameras,Fujifilm,35868.42,59658.37,2023-11-25,SUP0061,3.2,Active
+PRD00227,India Gate Brown Rice 1 kg - Standard,Grocery,Staples,India Gate,685.26,1170.26,2023-11-22,SUP0082,3.9,Active
+PRD00228,Home Centre Fabric 3 Seater Sofa,Home & Kitchen,Furniture,Home Centre,30432.2,40851.43,2024-07-20,SUP0082,3.7,Active
+PRD00229,Kobo Adjustable Dumbbell Set - Premium,Sports,Fitness Equipment,Kobo,4347.47,5631.94,2020-03-17,SUP0076,3.5,Active
+PRD00230,Adidas Track Pants Slim Fit - Combo Pack,Sports,Sportswear,Adidas,2498.54,3933.47,2022-01-15,SUP0030,3.8,Active
+PRD00231,Wakefit Ergonomic Office Chair,Home & Kitchen,Furniture,Wakefit,16704.79,20409.64,2025-11-03,SUP0068,4.0,Active
+PRD00232,Portfolio Lean Startup - Combo Pack,Books,Business,Portfolio,1393.18,1732.86,2021-08-20,SUP0119,4.4,Active
+PRD00233,Adidas Ultraboost Sneakers - Premium,Fashion,Footwear,Adidas,5872.22,7561.84,2025-04-24,SUP0044,3.7,Inactive
+PRD00234,Bergmann Car Pressure Washer,Automotive,Car Accessories,Bergmann,2085.38,3491.55,2022-10-15,SUP0029,3.8,Active
+PRD00235,Butterfly Wet Grinder 2L - Standard,Home & Kitchen,Kitchen Appliances,Butterfly,7057.95,9649.1,2022-11-24,SUP0010,4.1,Active
+PRD00236,Pigeon Granite Fry Pan - New Edition,Home & Kitchen,Cookware,Pigeon,4993.16,7199.43,2021-06-10,SUP0068,4.7,Active
+PRD00237,Fogg Fresh Deodorant Pack - New Edition,Beauty,Fragrance,Fogg,1250.36,1592.49,2025-02-05,SUP0040,4.2,Active
+PRD00238,Borosil Glass Mixing Bowl Set - Premium,Home & Kitchen,Cookware,Borosil,3169.51,4519.89,2020-12-24,SUP0125,4.2,Active
+PRD00239,Pigeon Non-Stick Tawa - Premium Large,Home & Kitchen,Cookware,Pigeon,5129.02,7272.7,2022-09-17,SUP0106,3.3,Active
+PRD00240,Acer Aspire 5 i5,Electronics,Laptops,Acer,73503.06,117149.94,2020-04-01,SUP0027,3.9,Active
+PRD00241,Pampers Diaper Pants Large,Baby & Kids,Baby Care,Pampers,1823.83,2196.04,2024-12-27,SUP0139,3.6,Inactive
+PRD00242,Tresemme Hair Mask Repair - New Edition,Beauty,Haircare,Tresemme,961.37,1219.0,2024-09-04,SUP0114,3.7,Active
+PRD00243,Boult Rover Pro Earbuds - Value Pack,Electronics,Headphones,Boult,7293.34,9774.53,2021-01-01,SUP0120,4.2,Active
+PRD00244,Fastrack Reflex Smart Band - New Edition,Fashion,Watches,Fastrack,11525.49,17467.39,2020-10-20,SUP0058,4.3,Active
+PRD00245,Lifelong Home Gym Set - Combo Pack,Sports,Fitness Equipment,Lifelong,15914.28,19234.94,2021-07-11,SUP0003,3.4,Active
+PRD00246,Nike Running Shorts - Value Pack,Sports,Sportswear,Nike,2592.61,3432.92,2025-12-20,SUP0074,3.8,Active
+PRD00247,Spaces Premium Bedsheet Set - Combo Pack,Home & Kitchen,Home Decor,Spaces,1754.19,2258.25,2020-10-21,SUP0037,4.5,Active
+PRD00248,Asus Vivobook 15 OLED - Value Pack,Electronics,Laptops,Asus,58494.68,82739.27,2023-04-08,SUP0102,4.0,Active
+PRD00249,Haldiram’s Aloo Bhujia 400g - Value Pack,Grocery,Snacks,Haldiram’s,187.81,263.94,2024-01-11,SUP0049,3.8,Active
+PRD00250,Yonex Shuttlecock Mavis 350 - Value Pack,Sports,Outdoor Sports,Yonex,3702.03,4561.81,2024-10-26,SUP0042,4.1,Active
+PRD00251,Hamleys Soft Teddy Bear - Value Pack,Baby & Kids,Toys,Hamleys,2237.31,3389.09,2022-04-15,SUP0107,4.5,Active
+PRD00252,Lifelong Resistance Band Kit - Premium,Sports,Fitness Equipment,Lifelong,14054.79,23086.19,2022-06-16,SUP0030,4.2,Active
+PRD00253,U.S. Polo Assn. Polo T-Shirt,Fashion,Men Clothing,U.S. Polo Assn.,5449.81,6540.0,2022-01-23,SUP0145,4.1,Active
+PRD00254,Apple iPhone 13 128GB - Premium,Electronics,Smartphones,Apple,51982.98,81652.8,2020-02-14,SUP0103,4.3,Active
+PRD00255,Pearson Statistics for Business - Standard,Books,Education,Pearson,1156.1,1353.4,2020-01-29,SUP0094,4.2,Active
+PRD00256,GoPro Hero 12 Black - Combo Pack,Electronics,Cameras,GoPro,47838.59,60260.37,2022-04-04,SUP0117,3.5,Active
+PRD00257,Sennheiser HD 450BT Headphones - Premium,Electronics,Headphones,Sennheiser,7821.71,12434.55,2023-11-27,SUP0147,3.6,Active
+PRD00258,Wiley Machine Learning Guide - Value Pack,Books,Education,Wiley,2192.26,2890.99,2022-05-20,SUP0075,3.4,Discontinued
+PRD00259,Red Bull Sugar Free Can - Value Pack,Grocery,Beverages,Red Bull,491.8,573.21,2020-04-13,SUP0020,4.7,Active
+PRD00260,Bajaj Room Heater Majesty - New Edition,Home & Kitchen,Kitchen Appliances,Bajaj,5714.35,9746.34,2020-09-24,SUP0073,4.2,Active
+PRD00261,Home Centre Dining Table 4 Seater - New Edition Blue,Home & Kitchen,Furniture,Home Centre,25475.63,39422.11,2022-03-31,SUP0113,3.6,Active
+PRD00262,Nivea Moisturising Lotion 400ml - Premium,Grocery,Personal Care,Nivea,433.5,641.32,2024-09-04,SUP0130,3.7,Active
+PRD00263,Penguin The Alchemist Paperback - Standard Pack of 2,Books,Fiction,Penguin,1654.74,2364.98,2020-12-10,SUP0084,3.9,Active
+PRD00264,Tata Sampann Masoor Dal 1 kg - Standard Silver,Grocery,Staples,Tata Sampann,273.59,345.45,2024-02-03,SUP0138,4.1,Discontinued
+PRD00265,Fisher-Price Musical Learning Toy,Baby & Kids,Toys,Fisher-Price,2842.33,4805.51,2022-02-28,SUP0069,4.5,Active
+PRD00266,Nikon Z50 Mirrorless Kit - New Edition,Electronics,Cameras,Nikon,18924.04,25420.78,2020-02-26,SUP0138,3.4,Active
+PRD00267,Cultsport Treadmill Motorised - New Edition,Sports,Fitness Equipment,Cultsport,13261.04,17077.37,2024-09-06,SUP0024,4.1,Active
+PRD00268,Lenovo Legion 5 Pro - New Edition,Electronics,Laptops,Lenovo,39781.77,58540.37,2023-07-13,SUP0076,3.7,Active
+PRD00269,Apple MacBook Pro 14 - Standard,Electronics,Laptops,Apple,58100.62,70469.05,2024-03-11,SUP0017,3.3,Active
+PRD00270,Penguin The Silent Patient Paperback - New Edition 2025,Books,Fiction,Penguin,2767.92,3395.01,2020-02-06,SUP0096,3.7,Discontinued
+PRD00271,Axor Apex Riding Helmet,Automotive,Bike Accessories,Axor,5825.83,9647.21,2023-06-26,SUP0056,3.6,Active
+PRD00272,Wild Stone Men Fresh Fragrance,Beauty,Fragrance,Wild Stone,1085.28,1270.41,2025-08-11,SUP0140,3.6,Inactive
+PRD00273,Colgate Visible White Toothpaste - Standard,Grocery,Personal Care,Colgate,623.36,858.08,2025-10-27,SUP0047,4.7,Active
+PRD00274,Bella Vita CEO Man Perfume - Combo Pack,Beauty,Fragrance,Bella Vita,540.1,888.69,2023-09-07,SUP0135,3.2,Active
+PRD00275,Spaces Bath Towel Set,Home & Kitchen,Home Decor,Spaces,2469.09,2912.9,2025-12-25,SUP0016,3.3,Active
+PRD00276,Kurkure Green Chutney Style,Grocery,Snacks,Kurkure,177.65,248.37,2021-05-15,SUP0065,3.6,Active
+PRD00277,Prestige Induction Cooktop - Standard XL,Home & Kitchen,Kitchen Appliances,Prestige,2118.92,2817.84,2025-12-26,SUP0076,4.2,Active
+PRD00278,Red Bull Sugar Free Can - Premium,Grocery,Beverages,Red Bull,371.4,434.83,2024-12-31,SUP0128,4.5,Active
+PRD00279,Kobo Adjustable Dumbbell Set - Value Pack,Sports,Fitness Equipment,Kobo,20238.67,26905.81,2023-12-07,SUP0011,4.4,Active
+PRD00280,Wild Stone Code Titanium Perfume - Premium,Beauty,Fragrance,Wild Stone,1352.19,2067.55,2025-01-29,SUP0071,3.6,Active
+PRD00281,HP Pavilion 15 Ryzen 5 - Standard,Electronics,Laptops,HP,68232.53,106263.71,2024-06-16,SUP0105,4.7,Active
+PRD00282,Bloomsbury A Court of Thorns and Roses - Premium,Books,Fiction,Bloomsbury,3240.9,3930.63,2025-06-27,SUP0123,3.6,Active
+PRD00283,Realme Narzo 60 5G - Standard,Electronics,Smartphones,Realme,36077.19,52147.21,2021-04-03,SUP0052,4.2,Active
+PRD00284,Tresemme Hair Mask Repair - New Edition Black,Beauty,Haircare,Tresemme,902.44,1462.24,2020-01-26,SUP0082,4.1,Inactive
+PRD00285,Spaces Bath Towel Set - Standard Silver,Home & Kitchen,Home Decor,Spaces,4420.69,5762.77,2023-11-06,SUP0024,4.6,Active
+PRD00286,Campus Walking Sneakers - Standard,Fashion,Footwear,Campus,6995.11,10103.1,2024-03-27,SUP0070,4.7,Inactive
+PRD00287,Vero Moda Denim Jacket - Premium,Fashion,Women Clothing,Vero Moda,2528.06,3939.35,2020-12-27,SUP0048,4.3,Active
+PRD00288,Portfolio Lean Startup - New Edition,Books,Business,Portfolio,1384.79,1695.11,2024-08-01,SUP0030,3.5,Inactive
+PRD00289,Studds Ninja Elite Helmet - New Edition,Automotive,Bike Accessories,Studds,6103.62,9067.13,2020-03-17,SUP0119,3.9,Active
+PRD00290,Fortune Sunflower Oil 5 L - Combo Pack,Grocery,Staples,Fortune,581.65,827.11,2024-12-19,SUP0150,4.2,Active
+PRD00291,Rynox Riding Gloves Urban - Standard,Automotive,Bike Accessories,Rynox,7777.82,9580.08,2021-10-04,SUP0027,3.4,Inactive
+PRD00292,Boldfit Push Up Bar Set - New Edition Blue,Sports,Fitness Equipment,Boldfit,19456.6,25200.92,2021-05-13,SUP0019,4.2,Active
+PRD00293,Sugar Kajal Eye Pencil - Standard,Beauty,Makeup,Sugar,702.28,982.88,2023-01-21,SUP0126,3.4,Active
+PRD00294,Dove Body Wash 500ml - Combo Pack,Grocery,Personal Care,Dove,194.68,293.17,2023-05-15,SUP0005,3.7,Active
+PRD00295,Aurelia Ethnic Dress - Standard,Fashion,Women Clothing,Aurelia,2752.38,3742.57,2020-03-27,SUP0137,4.5,Active
+PRD00296,Philips Mixer Grinder 750W - Standard,Home & Kitchen,Kitchen Appliances,Philips,4814.14,7667.31,2023-04-06,SUP0085,3.5,Active
+PRD00297,Fogg Fresh Deodorant Pack - Standard,Beauty,Fragrance,Fogg,1294.45,1542.42,2025-09-06,SUP0129,3.7,Active
+PRD00298,Morphy Richards OTG 28L Oven - Combo Pack,Home & Kitchen,Kitchen Appliances,Morphy Richards,6773.26,8604.94,2025-11-20,SUP0054,4.2,Active
+PRD00299,Morphy Richards OTG 28L Oven - Combo Pack Large,Home & Kitchen,Kitchen Appliances,Morphy Richards,4019.61,6095.19,2024-05-21,SUP0140,4.5,Active
+PRD00300,Fujifilm X-T30 II Mirrorless - Premium,Electronics,Cameras,Fujifilm,58959.42,84846.49,2020-07-04,SUP0015,3.9,Active
+PRD00301,LG OLED C2 55 inch,Electronics,Televisions,LG,64926.44,82897.32,2024-08-07,SUP0133,4.5,Active
+PRD00302,SG Cricket Kit Bag - Combo Pack,Sports,Outdoor Sports,SG,10762.22,16967.67,2024-12-04,SUP0135,4.8,Active
+PRD00303,Wonderchef Stainless Steel Kadai,Home & Kitchen,Cookware,Wonderchef,2613.24,3784.28,2020-05-19,SUP0113,3.9,Active
+PRD00304,Nike Dry Fit Training T-Shirt - Standard,Sports,Sportswear,Nike,4004.6,6041.89,2022-07-13,SUP0009,4.1,Active
+PRD00305,HRX Gym Vest - Combo Pack,Sports,Sportswear,HRX,2601.31,3975.85,2023-06-28,SUP0148,3.9,Active
+PRD00306,Bosch Wiper Blade Set - Standard,Automotive,Car Accessories,Bosch,2090.18,2928.67,2021-01-29,SUP0042,4.3,Active
+PRD00307,Nivia Basketball Official Size - Standard,Sports,Outdoor Sports,Nivia,10423.06,16284.82,2023-05-03,SUP0123,3.6,Active
+PRD00308,Penguin Business Rich Dad Poor Dad - Combo Pack,Books,Business,Penguin Business,1222.51,1438.08,2021-05-14,SUP0052,4.2,Active
+PRD00309,Fisher-Price Activity Walker - Value Pack,Baby & Kids,Toys,Fisher-Price,3121.05,5079.45,2022-11-18,SUP0125,3.2,Inactive
+PRD00310,Noise Air Buds Pro,Electronics,Headphones,Noise,3932.56,5896.19,2025-11-22,SUP0085,4.1,Active
+PRD00311,Bella Vita Luxury Eau De Parfum,Beauty,Fragrance,Bella Vita,2098.64,2624.29,2024-06-04,SUP0055,3.5,Inactive
+PRD00312,Nivea Moisturising Lotion 400ml - Premium Silver,Grocery,Personal Care,Nivea,184.8,318.29,2021-04-20,SUP0035,3.9,Active
+PRD00313,Puma Smashic Casual Shoes - Combo Pack,Fashion,Footwear,Puma,7664.32,11404.97,2025-09-25,SUP0031,3.4,Active
+PRD00314,Apple MacBook Pro 14 - Premium,Electronics,Laptops,Apple,31292.49,41705.94,2022-03-22,SUP0062,3.4,Active
+PRD00315,Hopscotch Cotton T-Shirt Set - New Edition,Baby & Kids,Kids Clothing,Hopscotch,1830.75,2169.79,2022-05-28,SUP0067,3.7,Active
+PRD00316,Oppo F21 Pro - Combo Pack,Electronics,Smartphones,Oppo,42349.37,50052.7,2020-06-12,SUP0122,4.0,Active
+PRD00317,Faces Canada Weightless Matte Lipstick,Beauty,Makeup,Faces Canada,1318.37,1614.52,2023-01-17,SUP0137,3.8,Active
+PRD00318,Canon EOS R50 Mirrorless - New Edition,Electronics,Cameras,Canon,46163.91,78945.0,2021-10-12,SUP0115,4.3,Active
+PRD00319,Under Armour Tech 2.0 T-Shirt - Standard,Sports,Sportswear,Under Armour,2356.85,3290.53,2021-03-08,SUP0068,3.9,Active
+PRD00320,Wavex Car Shampoo 5L - New Edition,Automotive,Car Accessories,Wavex,1129.24,1707.8,2021-12-01,SUP0106,3.5,Active
+PRD00321,Story@Home Wall Clock Wooden - Standard,Home & Kitchen,Home Decor,Story@Home,1599.95,2216.61,2022-12-09,SUP0049,4.0,Active
+PRD00322,Nikon Z50 Mirrorless Kit - Value Pack,Electronics,Cameras,Nikon,4343.95,6849.52,2021-04-15,SUP0149,4.1,Active
+PRD00323,Pearson Python Programming Textbook - Standard,Books,Education,Pearson,1971.37,3352.0,2024-01-28,SUP0035,3.7,Active
+PRD00324,Mamaearth Vitamin C Face Serum - New Edition,Beauty,Skincare,Mamaearth,870.18,1188.68,2025-10-29,SUP0070,4.6,Active
+PRD00325,Aashirvaad Multigrain Atta 5 kg - Premium,Grocery,Staples,Aashirvaad,892.24,1069.93,2020-04-28,SUP0049,3.3,Active
+PRD00326,Bella Vita CEO Man Perfume - New Edition,Beauty,Fragrance,Bella Vita,817.97,1241.01,2024-03-11,SUP0080,3.6,Inactive
+PRD00327,Nivia Football Size 5,Sports,Outdoor Sports,Nivia,3739.9,5839.85,2022-11-15,SUP0068,4.2,Active
+PRD00328,Bosch Wiper Blade Set - Premium,Automotive,Car Accessories,Bosch,2826.36,3955.53,2023-07-19,SUP0089,4.1,Active
+PRD00329,Lay’s Magic Masala Chips - Premium,Grocery,Snacks,Lay’s,220.19,325.57,2023-04-06,SUP0068,3.3,Active
+PRD00330,Lego City Police Car Set - Premium Pack of 2,Baby & Kids,Toys,Lego,4666.49,5840.38,2022-10-23,SUP0077,3.5,Active
+PRD00331,D’Decor Designer Cushion Covers,Home & Kitchen,Home Decor,D’Decor,3395.49,4741.87,2023-11-12,SUP0014,4.0,Inactive
+PRD00332,Casio G-Shock Digital Watch - Premium,Fashion,Watches,Casio,4958.46,8171.64,2021-08-03,SUP0035,4.3,Active
+PRD00333,Acer Aspire 5 i5 - Combo Pack,Electronics,Laptops,Acer,50744.0,84043.61,2021-04-11,SUP0029,3.3,Active
+PRD00334,Mee Mee Baby Wipes Pack - Combo Pack,Baby & Kids,Baby Care,Mee Mee,1558.29,2563.38,2022-05-30,SUP0114,4.2,Active
+PRD00335,Apple iPhone 14 128GB - Value Pack,Electronics,Smartphones,Apple,51486.13,65428.76,2025-12-11,SUP0113,4.2,Active
+PRD00336,Realme Realme 11 Pro 5G,Electronics,Smartphones,Realme,36904.41,46102.21,2022-11-03,SUP0094,3.6,Active
+PRD00337,Funskool Board Game Family Pack - Combo Pack,Baby & Kids,Toys,Funskool,3846.46,4958.19,2021-05-06,SUP0136,4.4,Active
+PRD00338,Sugar Kajal Eye Pencil - Premium,Beauty,Makeup,Sugar,998.89,1233.1,2021-09-05,SUP0004,3.5,Active
+PRD00339,Strauss Foam Roller - Premium,Sports,Fitness Equipment,Strauss,28284.67,33450.01,2020-11-05,SUP0150,3.4,Active
+PRD00340,Levi’s 511 Slim Fit Denim Jeans - Value Pack,Fashion,Men Clothing,Levi’s,1985.47,3080.06,2022-07-08,SUP0138,4.4,Active
+PRD00341,Pigeon Non-Stick Tawa - Premium Black,Home & Kitchen,Cookware,Pigeon,3129.47,4370.64,2024-02-02,SUP0082,3.6,Active
+PRD00342,HarperCollins The Monk Who Sold His Ferrari - Standard,Books,Fiction,HarperCollins,1411.84,2320.13,2022-05-01,SUP0016,4.3,Active
+PRD00343,Cultsport Exercise Bike Pro - New Edition,Sports,Fitness Equipment,Cultsport,9331.17,14031.17,2025-06-22,SUP0120,3.8,Active
+PRD00344,Too Yumm Foxnuts Peri Peri,Grocery,Snacks,Too Yumm,196.83,322.7,2021-10-31,SUP0119,3.9,Active
+PRD00345,Wonderchef Stainless Steel Kadai - New Edition,Home & Kitchen,Cookware,Wonderchef,4250.57,5528.1,2024-09-10,SUP0043,3.3,Active
+PRD00346,Too Yumm Foxnuts Peri Peri - Premium,Grocery,Snacks,Too Yumm,358.28,459.34,2020-10-03,SUP0120,4.1,Active
+PRD00347,Himalaya Baby Baby Powder 200g,Baby & Kids,Baby Care,Himalaya Baby,1567.57,1917.86,2024-07-04,SUP0124,4.4,Active
+PRD00348,Bajaj Room Heater Majesty - Premium,Home & Kitchen,Kitchen Appliances,Bajaj,5169.77,7709.04,2020-02-16,SUP0039,4.2,Active
+PRD00349,Yonex Badminton Racquet - New Edition,Sports,Outdoor Sports,Yonex,6378.18,10506.42,2024-04-03,SUP0004,3.2,Active
+PRD00350,Wiley Business Analytics Guide - Premium,Books,Business,Wiley,1253.23,1829.83,2022-06-16,SUP0077,3.5,Active
+PRD00351,Bosch Wiper Blade Set,Automotive,Car Accessories,Bosch,5360.78,6875.09,2022-11-17,SUP0092,3.8,Active
+PRD00352,Home Centre Ceramic Table Lamp - Combo Pack,Home & Kitchen,Home Decor,Home Centre,1655.37,2339.3,2020-02-27,SUP0027,4.7,Active
+PRD00353,Tata Tea Premium Tea 1kg,Grocery,Beverages,Tata Tea,405.22,698.13,2025-04-24,SUP0031,4.4,Active
+PRD00354,Nikon Z50 Mirrorless Kit - Value Pack XL,Electronics,Cameras,Nikon,32500.78,54035.38,2023-12-10,SUP0018,3.8,Active
+PRD00355,Bru Gold Coffee Pouch - Combo Pack,Grocery,Beverages,Bru,56.69,90.53,2020-02-18,SUP0052,4.2,Active
+PRD00356,Under Armour Training Shorts - New Edition,Sports,Sportswear,Under Armour,2172.61,3069.01,2022-07-11,SUP0121,3.6,Active
+PRD00357,Mi Mi 43 inch 4K TV - Standard,Electronics,Televisions,Mi,62826.79,101103.7,2022-12-16,SUP0121,4.3,Active
+PRD00358,Sennheiser CX True Wireless - Standard Large,Electronics,Headphones,Sennheiser,7855.95,9967.67,2021-03-11,SUP0139,3.2,Active
+PRD00359,Pond’s Light Moisturiser Gel White,Grocery,Personal Care,Pond’s,468.38,559.39,2025-08-05,SUP0120,3.7,Active
+PRD00360,McGraw Hill Quantitative Aptitude Book - Combo Pack,Books,Education,McGraw Hill,1885.49,2827.44,2023-05-13,SUP0032,3.3,Active
+PRD00361,Fastrack Casual Analog Watch - Value Pack Pack of 2,Fashion,Watches,Fastrack,2144.1,3321.49,2022-09-11,SUP0018,3.2,Active
+PRD00362,Apple MacBook Air M2 - Standard,Electronics,Laptops,Apple,90045.13,142775.09,2023-04-05,SUP0099,4.4,Inactive
+PRD00363,Lifelong Home Gym Set - Combo Pack Blue,Sports,Fitness Equipment,Lifelong,16472.88,23192.94,2021-02-13,SUP0102,3.6,Active
+PRD00364,Asus TUF Gaming F15,Electronics,Laptops,Asus,38256.42,63916.12,2024-05-21,SUP0142,4.8,Inactive
+PRD00365,Pearson Statistics for Business - Combo Pack,Books,Education,Pearson,1481.27,1801.5,2020-03-04,SUP0015,3.4,Active
+PRD00366,Kurkure Masala Munch Pack - Standard,Grocery,Snacks,Kurkure,256.32,320.31,2020-02-05,SUP0042,4.5,Active
+PRD00367,Pigeon Non-Stick Tawa - Standard,Home & Kitchen,Cookware,Pigeon,3018.48,3968.63,2025-12-10,SUP0061,4.6,Active
+PRD00368,AND Workwear Dress - Value Pack,Fashion,Women Clothing,AND,3147.21,5164.87,2024-01-16,SUP0140,4.7,Discontinued
+PRD00369,Sugar Kajal Eye Pencil - Value Pack,Beauty,Makeup,Sugar,1795.49,2138.54,2022-10-14,SUP0142,4.3,Active
+PRD00370,Biotique Bhringraj Hair Oil - Standard,Beauty,Haircare,Biotique,780.9,1041.36,2024-07-04,SUP0120,4.7,Active
+PRD00371,Bosch Car Vacuum Cleaner - Combo Pack,Automotive,Car Accessories,Bosch,2631.48,4341.89,2022-04-12,SUP0072,4.6,Active
+PRD00372,Vu Vu Masterpiece 65 inch,Electronics,Televisions,Vu,64007.28,81804.92,2023-03-17,SUP0030,4.0,Active
+PRD00373,Fossil Gen 6 Smartwatch - Combo Pack,Fashion,Watches,Fossil,7598.83,12956.37,2021-03-25,SUP0132,4.4,Active
+PRD00374,Funskool Monopoly India Edition - New Edition,Baby & Kids,Toys,Funskool,3071.66,5083.95,2025-07-21,SUP0137,4.2,Inactive
+PRD00375,Puma DryCELL T-Shirt - Combo Pack,Sports,Sportswear,Puma,2645.0,3826.65,2022-11-10,SUP0134,3.9,Active
+PRD00376,Tresemme Keratin Smooth Shampoo,Beauty,Haircare,Tresemme,740.88,952.2,2024-08-27,SUP0117,3.9,Active
+PRD00377,Tata Sampann Toor Dal 2 kg - Value Pack,Grocery,Staples,Tata Sampann,749.38,930.89,2025-05-21,SUP0093,4.7,Active
+PRD00378,Nescafe Gold Blend Coffee Jar,Grocery,Beverages,Nescafe,445.27,556.55,2023-08-02,SUP0018,4.4,Active
+PRD00379,Urban Ladder Fabric Recliner Chair - Premium,Home & Kitchen,Furniture,Urban Ladder,38273.25,65844.55,2024-02-14,SUP0142,4.6,Active
+PRD00380,Lego City Police Car Set - Value Pack,Baby & Kids,Toys,Lego,4890.23,7040.52,2024-03-20,SUP0115,3.4,Active
+PRD00381,Mee Mee Baby Wipes Pack - Premium,Baby & Kids,Baby Care,Mee Mee,748.29,1216.86,2024-12-30,SUP0069,4.0,Active
+PRD00382,Engage Body Mist 150ml - Combo Pack,Beauty,Fragrance,Engage,1074.62,1353.9,2025-03-09,SUP0099,3.7,Active
+PRD00383,Colorbar Nail Lacquer - Standard,Beauty,Makeup,Colorbar,986.66,1149.42,2024-03-08,SUP0026,4.3,Active
+PRD00384,Pampers Diaper Pants Large - Standard,Baby & Kids,Baby Care,Pampers,1426.99,1660.3,2020-08-08,SUP0038,3.6,Active
+PRD00385,Penguin The Alchemist Paperback - New Edition,Books,Fiction,Penguin,1164.12,1609.37,2023-12-04,SUP0023,3.5,Active
+PRD00386,Nike Dry Fit Training T-Shirt,Sports,Sportswear,Nike,3597.03,4626.18,2022-11-25,SUP0121,3.9,Inactive
+PRD00387,GoPro Hero 12 Black - New Edition,Electronics,Cameras,GoPro,54950.41,67638.37,2024-12-05,SUP0056,4.6,Active
+PRD00388,Tresemme Hair Mask Repair - Standard 2025,Beauty,Haircare,Tresemme,465.84,724.14,2024-05-23,SUP0044,3.3,Active
+PRD00389,Lenovo IdeaPad Slim 5 - Standard,Electronics,Laptops,Lenovo,81825.7,107247.87,2022-10-19,SUP0136,4.2,Inactive
+PRD00390,D’Decor Designer Cushion Covers - Standard,Home & Kitchen,Home Decor,D’Decor,3983.27,6026.76,2020-11-12,SUP0110,4.8,Inactive
+PRD00391,Lay’s Classic Salted Chips - Standard,Grocery,Snacks,Lay’s,98.95,123.03,2024-08-20,SUP0044,4.2,Active
+PRD00392,Kobo Adjustable Dumbbell Set - Premium Blue,Sports,Fitness Equipment,Kobo,21450.83,27455.6,2022-08-18,SUP0094,3.7,Active
+PRD00393,Ikea Floor Lamp - Combo Pack 2025,Home & Kitchen,Home Decor,Ikea,3746.92,5297.05,2021-02-11,SUP0071,3.3,Active
+PRD00394,Fortune Sunflower Oil 5 L,Grocery,Staples,Fortune,254.05,405.36,2021-03-08,SUP0087,3.6,Active
+PRD00395,Pond’s Face Wash 100g - Combo Pack,Grocery,Personal Care,Pond’s,224.5,380.31,2024-02-25,SUP0108,4.6,Active
+PRD00396,Fossil Chronograph Watch,Fashion,Watches,Fossil,7687.74,12993.89,2022-07-19,SUP0073,4.1,Active
+PRD00397,Xiaomi Redmi Note 12 Pro - Standard,Electronics,Smartphones,Xiaomi,30335.32,38485.71,2020-10-18,SUP0144,4.1,Active
+PRD00398,Lego City Police Car Set - Combo Pack,Baby & Kids,Toys,Lego,1778.08,2609.08,2024-03-26,SUP0004,4.3,Active
+PRD00399,Hopscotch Party Wear Dress - Standard,Baby & Kids,Kids Clothing,Hopscotch,1107.79,1346.12,2021-02-15,SUP0086,4.5,Active
+PRD00400,Adidas Track Pants Slim Fit - New Edition,Sports,Sportswear,Adidas,3366.44,4354.16,2021-08-02,SUP0045,3.3,Active
+PRD00401,Puma Softride Running Shoes - Standard,Fashion,Footwear,Puma,10079.5,14207.68,2023-08-28,SUP0060,4.5,Active
+PRD00402,Wakefit Queen Bed with Storage - Standard,Home & Kitchen,Furniture,Wakefit,29087.2,45458.46,2024-09-28,SUP0052,3.6,Active
+PRD00403,Yonex Badminton Racquet - Premium,Sports,Outdoor Sports,Yonex,10051.66,13012.92,2020-07-10,SUP0049,3.5,Inactive
+PRD00404,Oxford English Grammar Guide,Books,Education,Oxford,2886.94,3604.04,2021-06-11,SUP0068,4.0,Active
+PRD00405,Kobo Weight Lifting Belt - Standard,Sports,Fitness Equipment,Kobo,18229.46,25544.88,2023-07-14,SUP0017,4.2,Discontinued
+PRD00406,Steelbird Bike Cover Waterproof - Combo Pack,Automotive,Bike Accessories,Steelbird,3190.67,3913.11,2023-08-21,SUP0136,3.7,Active
+PRD00407,Realme Realme 11 Pro 5G - Combo Pack,Electronics,Smartphones,Realme,21450.81,33108.6,2020-09-11,SUP0003,3.7,Active
+PRD00408,Sugar Kajal Eye Pencil - Standard XL,Beauty,Makeup,Sugar,1394.13,1639.19,2024-02-19,SUP0093,3.9,Active
+PRD00409,Boldfit Skipping Rope Pro - Standard,Sports,Fitness Equipment,Boldfit,28052.79,33638.65,2020-04-15,SUP0046,4.4,Active
+PRD00410,Arihant Reasoning Practice Book - Value Pack,Books,Education,Arihant,1603.87,2401.24,2021-11-23,SUP0035,4.2,Active
+PRD00411,Home Centre Cotton Bedsheet Set - Premium Pack of 2,Home & Kitchen,Home Decor,Home Centre,3473.92,4841.96,2023-05-31,SUP0080,3.4,Active
+PRD00412,Pampers Premium Care Diapers - New Edition,Baby & Kids,Baby Care,Pampers,986.45,1490.88,2022-08-25,SUP0006,4.7,Discontinued
+PRD00413,Cucumber Infant Frock Set - Standard,Baby & Kids,Kids Clothing,Cucumber,1820.93,2452.92,2020-12-20,SUP0083,3.8,Active
+PRD00414,Harper Business Good to Great,Books,Business,Harper Business,1762.05,2174.8,2023-03-27,SUP0073,4.5,Active
+PRD00415,Harper Business Good to Great - Standard,Books,Business,Harper Business,1087.18,1445.74,2024-08-24,SUP0131,3.5,Inactive
+PRD00416,Himalaya Baby Baby Powder 200g - Value Pack,Baby & Kids,Baby Care,Himalaya Baby,1178.89,1832.27,2021-06-11,SUP0039,4.1,Active
+PRD00417,Oxford Dictionary Thesaurus Set - Premium,Books,Education,Oxford,646.7,1020.52,2023-03-29,SUP0002,4.6,Active
+PRD00418,Yonex Badminton Racquet - Premium Silver,Sports,Outdoor Sports,Yonex,3919.23,4964.88,2023-12-21,SUP0029,3.9,Active
+PRD00419,MSI GF63 Thin Gaming - Premium,Electronics,Laptops,MSI,49656.5,70383.17,2021-03-07,SUP0137,4.7,Active
+PRD00420,Lenovo Legion 5 Pro - Premium,Electronics,Laptops,Lenovo,56144.18,94655.94,2023-12-04,SUP0051,4.4,Active
+PRD00421,Johnson’s Baby Oil 500ml - New Edition 2025,Baby & Kids,Baby Care,Johnson’s,1099.45,1411.97,2021-02-24,SUP0066,3.2,Active
+PRD00422,Wiley Deep Learning Textbook - Standard,Books,Education,Wiley,2057.4,3218.46,2021-09-17,SUP0074,4.6,Active
+PRD00423,Aashirvaad Atta 10 kg - Combo Pack,Grocery,Staples,Aashirvaad,439.39,575.51,2025-05-31,SUP0018,3.4,Active
+PRD00424,SG Cricket Kit Bag - New Edition,Sports,Outdoor Sports,SG,13302.01,16678.27,2020-08-08,SUP0121,4.5,Active
+PRD00425,TCL TCL 43 inch QLED TV - Value Pack,Electronics,Televisions,TCL,73299.15,107576.94,2020-01-09,SUP0041,3.2,Active
+PRD00426,Plum Night Repair Cream - Premium,Beauty,Skincare,Plum,1992.74,3130.09,2023-11-06,SUP0053,4.5,Active
+PRD00427,Studds Ninja Elite Helmet,Automotive,Bike Accessories,Studds,2244.01,3501.6,2023-10-16,SUP0041,3.3,Active
+PRD00428,Oxford English Grammar Guide - Standard,Books,Education,Oxford,1572.23,1883.17,2021-11-09,SUP0024,3.7,Active
+PRD00429,Mamaearth Vitamin C Face Serum - Standard,Beauty,Skincare,Mamaearth,1293.23,2056.49,2020-11-09,SUP0147,4.6,Active
+PRD00430,Fortune Basmati Rice 1 kg - Value Pack,Grocery,Staples,Fortune,554.56,857.64,2023-01-18,SUP0014,4.2,Active
+PRD00431,Samsung Frame 55 inch QLED TV - Combo Pack,Electronics,Televisions,Samsung,91916.56,113525.42,2021-03-06,SUP0096,4.7,Active
+PRD00432,Borosil Microwave Safe Lunch Box - Standard,Home & Kitchen,Cookware,Borosil,973.06,1247.9,2022-01-07,SUP0050,3.9,Active
+PRD00433,Acer Nitro V Gaming - Combo Pack,Electronics,Laptops,Acer,64649.52,111432.77,2023-03-24,SUP0058,3.5,Active
+PRD00434,Nike Air Zoom Running Shoes - Premium Pack of 2,Fashion,Footwear,Nike,7825.26,9946.14,2020-12-20,SUP0111,4.0,Active
+PRD00435,Bajaj Mixer Grinder GX1 - New Edition,Home & Kitchen,Kitchen Appliances,Bajaj,10092.52,11870.76,2023-09-01,SUP0038,3.4,Inactive
+PRD00436,Lakme Peach Milk Moisturizer - Value Pack,Beauty,Skincare,Lakme,1105.11,1557.8,2020-03-06,SUP0132,3.3,Active
+PRD00437,Engage Pocket Perfume Pack Black,Beauty,Fragrance,Engage,1530.11,1878.76,2024-10-21,SUP0047,4.8,Inactive
+PRD00438,Bata Formal Leather Shoes - Combo Pack,Fashion,Footwear,Bata,6592.72,9300.41,2022-09-10,SUP0139,3.7,Active
+PRD00439,Mamaearth Vitamin C Face Serum - Combo Pack,Beauty,Skincare,Mamaearth,1356.52,2104.77,2021-12-30,SUP0006,3.2,Inactive
+PRD00440,Vivo Vivo V27 5G - New Edition,Electronics,Smartphones,Vivo,19026.18,31727.84,2023-06-27,SUP0014,4.5,Active
+PRD00441,Dove Hair Fall Conditioner - New Edition,Beauty,Haircare,Dove,487.76,815.75,2022-05-24,SUP0089,3.3,Active
+PRD00442,Acer Swift Go 14 - Value Pack,Electronics,Laptops,Acer,93850.35,141649.06,2024-01-30,SUP0124,3.6,Inactive
+PRD00443,Kobo Weight Lifting Belt - Premium,Sports,Fitness Equipment,Kobo,27192.77,41850.65,2020-10-23,SUP0127,4.3,Active
+PRD00444,Story@Home Wall Clock Wooden - Premium,Home & Kitchen,Home Decor,Story@Home,3990.42,5905.32,2025-11-03,SUP0053,3.4,Active
+PRD00445,Mamaearth Vitamin C Face Serum,Beauty,Skincare,Mamaearth,1616.17,2490.96,2025-12-25,SUP0028,3.6,Active
+PRD00446,Max Kids School Shoes - Standard Large,Baby & Kids,Kids Clothing,Max Kids,2414.47,3896.42,2024-08-10,SUP0145,3.5,Active
+PRD00447,Puma Sports Jacket - Standard,Sports,Sportswear,Puma,2152.69,3226.19,2023-06-28,SUP0134,4.6,Active
+PRD00448,Bosch Car Vacuum Cleaner,Automotive,Car Accessories,Bosch,1849.27,2305.59,2022-09-06,SUP0087,4.3,Inactive
+PRD00449,Hot Wheels Track Builder Set - Standard,Baby & Kids,Toys,Hot Wheels,1845.68,2213.9,2021-02-20,SUP0015,3.6,Active
+PRD00450,Peter England Checked Casual Shirt - Premium,Fashion,Men Clothing,Peter England,3079.9,3811.96,2022-07-02,SUP0101,3.4,Active
+PRD00451,Bata Comfort Sandals - Premium,Fashion,Footwear,Bata,10779.15,12850.24,2025-11-13,SUP0030,3.7,Active
+PRD00452,Funskool Monopoly India Edition,Baby & Kids,Toys,Funskool,3223.85,4045.63,2023-12-01,SUP0147,3.4,Active
+PRD00453,Story@Home Printed Curtains - Premium,Home & Kitchen,Home Decor,Story@Home,4651.46,6214.62,2025-02-23,SUP0091,4.5,Active
+PRD00454,McGraw Hill Quantitative Aptitude Book - Combo Pack White,Books,Education,McGraw Hill,2599.86,3534.12,2021-06-13,SUP0084,4.6,Active
+PRD00455,Bru Gold Coffee Pouch,Grocery,Beverages,Bru,294.39,384.92,2023-09-08,SUP0142,4.7,Active
+PRD00456,Funskool Monopoly India Edition - Premium XL,Baby & Kids,Toys,Funskool,2730.73,3677.14,2023-08-12,SUP0118,3.8,Active
+PRD00457,Butterfly Rapid Electric Kettle - Value Pack,Home & Kitchen,Kitchen Appliances,Butterfly,2215.63,3773.29,2025-11-21,SUP0118,3.5,Active
+PRD00458,Adidas Runfalcon Shoes - New Edition,Fashion,Footwear,Adidas,5481.23,9370.78,2022-04-22,SUP0080,3.9,Inactive
+PRD00459,Vero Moda Floral Midi Dress - Premium,Fashion,Women Clothing,Vero Moda,5406.87,8145.07,2025-02-27,SUP0025,4.0,Inactive
+PRD00460,Sugar Smudge Me Not Lipstick - New Edition,Beauty,Makeup,Sugar,876.58,1047.01,2023-12-29,SUP0028,3.8,Active
+PRD00461,Wavex Ceramic Wax Polish - Standard Black,Automotive,Car Accessories,Wavex,3572.13,5221.95,2020-01-17,SUP0046,3.6,Active
+PRD00462,Home Centre Ceramic Table Lamp - Value Pack,Home & Kitchen,Home Decor,Home Centre,3551.19,4930.84,2021-08-13,SUP0145,3.5,Active
+PRD00463,Paper Boat Mixed Fruit Juice Pack Blue,Grocery,Beverages,Paper Boat,217.95,284.18,2020-03-04,SUP0090,3.8,Active
+PRD00464,Puma Softride Running Shoes - Standard Blue,Fashion,Footwear,Puma,8393.59,10976.07,2023-08-20,SUP0133,4.6,Active
+PRD00465,Maybelline Colossal Mascara - Standard,Beauty,Makeup,Maybelline,586.2,931.98,2024-01-17,SUP0120,3.9,Active
+PRD00466,Nivea Men Face Wash - Premium 2025,Grocery,Personal Care,Nivea,273.31,422.95,2020-12-07,SUP0097,4.4,Active
+PRD00467,Nike Dry Fit Training T-Shirt 2025,Sports,Sportswear,Nike,2392.0,3991.08,2020-08-13,SUP0041,3.7,Active
+PRD00468,Nescafe Classic Coffee 200g - Combo Pack,Grocery,Beverages,Nescafe,362.54,489.85,2023-12-07,SUP0075,3.8,Active
+PRD00469,Mamaearth Ubtan Face Wash - Value Pack,Beauty,Skincare,Mamaearth,2244.55,2930.86,2025-01-26,SUP0065,4.2,Active
+PRD00470,Roadster Hooded Sweatshirt - Premium,Fashion,Men Clothing,Roadster,2897.12,3684.02,2022-11-15,SUP0027,4.1,Active
+PRD00471,Maybelline Fit Me Foundation - Standard,Beauty,Makeup,Maybelline,866.35,1297.28,2023-08-18,SUP0127,3.8,Active
+PRD00472,Lakme 9to5 Compact Powder - Standard,Beauty,Makeup,Lakme,418.75,706.78,2025-10-01,SUP0004,3.8,Active
+PRD00473,Hamleys Remote Control Car - Combo Pack,Baby & Kids,Toys,Hamleys,5018.77,6349.96,2022-04-09,SUP0040,3.7,Active
+PRD00474,Bella Vita Luxury Eau De Parfum - New Edition,Beauty,Fragrance,Bella Vita,838.63,1304.76,2022-07-18,SUP0077,3.4,Active
+PRD00475,Vu Vu Premium 43 inch TV - Premium,Electronics,Televisions,Vu,55500.5,92264.45,2023-01-20,SUP0079,4.5,Active
+PRD00476,Steelbird Bike Cover Waterproof - Premium,Automotive,Bike Accessories,Steelbird,5304.9,8692.63,2023-09-03,SUP0120,4.6,Discontinued
+PRD00477,OnePlus Nord 3 5G Large,Electronics,Smartphones,OnePlus,27093.41,42715.79,2024-02-09,SUP0001,4.0,Inactive
+PRD00478,Sennheiser CX True Wireless - New Edition,Electronics,Headphones,Sennheiser,5128.55,6438.79,2022-07-13,SUP0037,4.2,Active
+PRD00479,Fossil Chronograph Watch - New Edition,Fashion,Watches,Fossil,7440.1,10948.09,2021-05-09,SUP0094,3.9,Active
+PRD00480,Wonderchef Ceramic Cookware Set - Standard,Home & Kitchen,Cookware,Wonderchef,3307.4,4969.06,2022-12-26,SUP0054,3.5,Active
+PRD00481,Bergmann Tyre Inflator Digital,Automotive,Car Accessories,Bergmann,1314.12,2005.37,2020-05-26,SUP0050,4.6,Active
+PRD00482,Pearson Python Programming Textbook - Premium Blue,Books,Education,Pearson,2857.1,3749.82,2020-04-27,SUP0125,3.9,Active
+PRD00483,Cultsport Treadmill Motorised - Standard,Sports,Fitness Equipment,Cultsport,7316.74,10678.74,2024-08-20,SUP0063,4.4,Active
+PRD00484,Sony WF-C500 Earbuds - New Edition,Electronics,Headphones,Sony,10837.9,14878.14,2024-01-30,SUP0116,4.1,Active
+PRD00485,Babyhug Winter Jacket - Standard,Baby & Kids,Kids Clothing,Babyhug,3099.67,4207.56,2025-11-13,SUP0076,3.7,Active
+PRD00486,Vega Open Face Helmet - New Edition,Automotive,Bike Accessories,Vega,8126.07,10359.26,2023-06-02,SUP0064,4.6,Active
+PRD00487,Dell Inspiron 14 Intel i5 - Standard,Electronics,Laptops,Dell,95155.67,114769.95,2023-02-10,SUP0134,3.4,Active
+PRD00488,Wavex Car Shampoo 5L - Value Pack,Automotive,Car Accessories,Wavex,3248.2,5221.76,2024-05-19,SUP0007,3.8,Active
+PRD00489,Rupa Wings of Fire Paperback - Premium,Books,Fiction,Rupa,2142.13,2776.35,2021-01-01,SUP0112,3.2,Active
+PRD00490,Van Heusen Slim Fit Shirt - Standard,Fashion,Men Clothing,Van Heusen,2751.53,3207.94,2024-06-09,SUP0063,3.7,Active
+PRD00491,Funskool Monopoly India Edition - Standard White,Baby & Kids,Toys,Funskool,1177.09,1980.01,2020-02-04,SUP0009,4.4,Active
+PRD00492,Nike Running Shorts - Combo Pack,Sports,Sportswear,Nike,2601.02,3786.05,2025-03-17,SUP0087,4.4,Inactive
+PRD00493,D’Decor Blackout Window Curtains - Value Pack,Home & Kitchen,Home Decor,D’Decor,2146.31,2554.55,2020-12-30,SUP0099,4.7,Active
+PRD00494,Bosch Car Vacuum Cleaner XL,Automotive,Car Accessories,Bosch,4309.26,5612.98,2024-05-12,SUP0022,3.5,Active
+PRD00495,Sugar Smudge Me Not Lipstick - Combo Pack,Beauty,Makeup,Sugar,357.55,513.39,2022-01-22,SUP0104,4.5,Active
+PRD00496,Pampers Diaper Pants Large - Standard Pack of 2,Baby & Kids,Baby Care,Pampers,2300.34,2894.79,2021-07-28,SUP0135,3.8,Active
+PRD00497,Neutrogena Hydrating Moisturizer,Beauty,Skincare,Neutrogena,1514.41,1983.54,2024-12-11,SUP0061,4.1,Active
+PRD00498,Ikea Wall Shelf Unit - Standard,Home & Kitchen,Home Decor,Ikea,5239.16,8397.19,2025-11-20,SUP0053,3.9,Active
+PRD00499,Nivea Moisturising Lotion 400ml - Premium White,Grocery,Personal Care,Nivea,530.59,621.99,2025-11-09,SUP0073,3.4,Active
+PRD00500,Lenovo Legion 5 Pro - Value Pack,Electronics,Laptops,Lenovo,79408.82,127597.08,2021-03-17,SUP0071,4.3,Inactive
+PRD00501,Van Heusen Blazer Regular Fit - Standard,Fashion,Men Clothing,Van Heusen,3486.42,4066.64,2024-05-12,SUP0061,3.8,Active
+PRD00502,Penguin The Alchemist Paperback - Standard Blue,Books,Fiction,Penguin,1638.23,2427.0,2020-03-29,SUP0084,3.7,Active
+PRD00503,Nike Running Shorts - Premium,Sports,Sportswear,Nike,3745.28,6212.44,2020-04-07,SUP0029,4.4,Active
+PRD00504,JBL Wave Beam TWS - Value Pack,Electronics,Headphones,JBL,4518.72,7174.62,2025-03-22,SUP0049,4.6,Active
+PRD00505,TCL TCL 43 inch QLED TV - Standard White,Electronics,Televisions,TCL,37377.62,64124.77,2022-05-02,SUP0074,4.1,Active
+PRD00506,Fogg Fresh Deodorant Pack - Standard White,Beauty,Fragrance,Fogg,2077.57,2480.71,2025-06-09,SUP0066,4.6,Active
+PRD00507,Neutrogena Hydrating Moisturizer - New Edition,Beauty,Skincare,Neutrogena,1259.41,2096.66,2021-10-07,SUP0036,3.8,Active
+PRD00508,McGraw Hill Quantitative Aptitude Book - Standard,Books,Education,McGraw Hill,653.2,878.33,2023-03-22,SUP0110,3.3,Active
+PRD00509,Nilkamal Plastic Storage Cabinet,Home & Kitchen,Furniture,Nilkamal,26090.85,35581.0,2020-05-23,SUP0102,4.5,Inactive
+PRD00510,Sugar Kajal Eye Pencil - Standard Silver,Beauty,Makeup,Sugar,770.65,1043.52,2022-05-01,SUP0084,4.5,Active
+PRD00511,Peter England Formal Trouser - Standard,Fashion,Men Clothing,Peter England,1898.56,2276.51,2024-03-05,SUP0100,3.3,Active
+PRD00512,Mamaearth Ubtan Face Wash - Standard,Beauty,Skincare,Mamaearth,2720.89,3357.69,2021-05-10,SUP0013,4.0,Active
+PRD00513,Tresemme Keratin Smooth Shampoo - Value Pack,Beauty,Haircare,Tresemme,566.75,731.37,2022-08-18,SUP0148,4.8,Active
+PRD00514,Noise ColorFit Smart Watch - Premium 2025,Fashion,Watches,Noise,7915.01,10758.62,2021-01-30,SUP0059,3.5,Active
+PRD00515,WOW Skin Science Onion Hair Oil - Standard,Beauty,Haircare,WOW Skin Science,348.0,446.08,2024-02-04,SUP0128,3.8,Active
+PRD00516,Sony WF-C500 Earbuds - Premium,Electronics,Headphones,Sony,7357.49,11110.37,2023-12-10,SUP0059,4.6,Active
+PRD00517,Pearson Statistics for Business - New Edition,Books,Education,Pearson,2859.93,4152.09,2025-08-09,SUP0105,3.8,Active
+PRD00518,Penguin Business Psychology of Money - Combo Pack,Books,Business,Penguin Business,1245.89,1643.93,2023-09-02,SUP0085,4.3,Active
+PRD00519,Pearson Python Programming Textbook - Standard 2025,Books,Education,Pearson,1918.27,2964.37,2020-04-18,SUP0071,3.8,Active
+PRD00520,Daawat Super Basmati Rice 1 kg - Premium,Grocery,Staples,Daawat,725.64,1104.46,2023-11-10,SUP0034,3.2,Active
+PRD00521,Colorbar Nail Lacquer - Standard Blue,Beauty,Makeup,Colorbar,1010.38,1624.71,2024-08-30,SUP0006,4.1,Discontinued
+PRD00522,Noise Fit Halo Smartwatch - Combo Pack,Fashion,Watches,Noise,4292.31,6933.09,2021-02-23,SUP0138,3.2,Inactive
+PRD00523,Wiley Machine Learning Guide - Value Pack 2025,Books,Education,Wiley,694.41,873.38,2022-11-19,SUP0128,4.0,Active
+PRD00524,Oppo Reno 10 5G,Electronics,Smartphones,Oppo,50976.52,82036.34,2025-02-13,SUP0088,3.9,Active
+PRD00525,Kurkure Green Chutney Style - New Edition,Grocery,Snacks,Kurkure,168.82,274.47,2025-11-27,SUP0022,4.3,Active
+PRD00526,Mothercare Kids Denim Jeans - Standard,Baby & Kids,Kids Clothing,Mothercare,2671.15,3429.89,2021-08-07,SUP0100,3.2,Discontinued
+PRD00527,Faces Canada Weightless Matte Lipstick - Premium,Beauty,Makeup,Faces Canada,1019.62,1229.11,2020-06-11,SUP0089,4.2,Active
+PRD00528,Dell Vostro 3520 Laptop - Standard,Electronics,Laptops,Dell,65730.59,81474.55,2024-11-19,SUP0103,3.8,Active
+PRD00529,Ambrane Car Charger 36W - Combo Pack,Automotive,Car Accessories,Ambrane,1547.32,2573.44,2025-09-16,SUP0068,3.9,Active
+PRD00530,Mi Mi 50 inch Smart TV - Premium,Electronics,Televisions,Mi,81094.44,136532.57,2025-07-28,SUP0057,4.3,Active
+PRD00531,W Palazzo Set,Fashion,Women Clothing,W,5353.4,6603.3,2023-02-01,SUP0027,4.7,Active
+PRD00532,Plum Green Tea Toner - Premium,Beauty,Skincare,Plum,722.42,1073.14,2021-09-25,SUP0117,4.5,Active
+PRD00533,Bloomsbury A Court of Thorns and Roses - Value Pack,Books,Fiction,Bloomsbury,1324.47,2023.14,2021-01-01,SUP0077,3.3,Active
+PRD00534,Penguin Business Psychology of Money - Premium,Books,Business,Penguin Business,1524.76,1785.72,2022-10-24,SUP0066,3.9,Active
+PRD00535,Sebamed Baby Cream 200ml - Combo Pack,Baby & Kids,Baby Care,Sebamed,1938.0,2429.38,2020-06-25,SUP0124,4.7,Active
+PRD00536,Lenovo Legion 5 Pro - Standard,Electronics,Laptops,Lenovo,62190.42,77688.39,2020-11-02,SUP0060,4.3,Active
+PRD00537,Spaces Bath Towel Set - New Edition,Home & Kitchen,Home Decor,Spaces,3517.29,4801.45,2024-08-15,SUP0062,4.5,Active
+PRD00538,Bosch Wiper Blade Set - Value Pack,Automotive,Car Accessories,Bosch,2916.82,3719.14,2020-07-17,SUP0134,4.4,Active
+PRD00539,GoPro Hero 11 Action Camera - Standard,Electronics,Cameras,GoPro,26369.8,44468.09,2024-11-20,SUP0012,4.3,Active
+PRD00540,Pearson Python Programming Textbook - New Edition 2025,Books,Education,Pearson,1660.65,2470.77,2021-09-15,SUP0146,4.0,Active
+PRD00541,Sebamed Baby Cream 200ml - Value Pack,Baby & Kids,Baby Care,Sebamed,522.67,625.9,2021-07-20,SUP0018,4.2,Active
+PRD00542,Yonex Badminton Racquet - Premium White,Sports,Outdoor Sports,Yonex,11609.08,14474.79,2025-05-18,SUP0065,3.6,Active
+PRD00543,Yonex Shuttlecock Mavis 350 - Premium,Sports,Outdoor Sports,Yonex,8983.91,13406.84,2020-02-04,SUP0113,3.6,Active
+PRD00544,Bosch Wiper Blade Set XL,Automotive,Car Accessories,Bosch,2925.22,3629.46,2022-07-05,SUP0067,4.2,Active
+PRD00545,Daawat Rozana Basmati Rice 5 kg - Standard,Grocery,Staples,Daawat,494.19,739.56,2022-08-14,SUP0062,4.5,Active
+PRD00546,Home Centre Ceramic Table Lamp,Home & Kitchen,Home Decor,Home Centre,3163.4,4683.32,2021-04-07,SUP0132,3.9,Active
+PRD00547,Levi’s Graphic Cotton T-Shirt - Premium,Fashion,Men Clothing,Levi’s,3717.24,4938.01,2020-03-05,SUP0055,4.4,Active
+PRD00548,Red Bull Sugar Free Can - New Edition,Grocery,Beverages,Red Bull,677.42,828.05,2020-03-17,SUP0057,4.4,Active
+PRD00549,Wild Stone Men Fresh Fragrance Pack of 2,Beauty,Fragrance,Wild Stone,827.33,1003.82,2025-08-16,SUP0088,3.7,Active
+PRD00550,Pigeon Granite Fry Pan Large,Home & Kitchen,Cookware,Pigeon,5048.8,6877.32,2020-01-10,SUP0019,4.1,Active
+PRD00551,Rynox Riding Gloves Urban - Value Pack,Automotive,Bike Accessories,Rynox,3311.62,4689.06,2022-01-31,SUP0081,4.3,Active
+PRD00552,Paper Boat Aam Panna 1L,Grocery,Beverages,Paper Boat,467.76,693.86,2022-07-22,SUP0021,3.5,Active
+PRD00553,Hawkins Futura Hard Anodised Kadai - Combo Pack,Home & Kitchen,Cookware,Hawkins,2336.6,3018.82,2023-04-07,SUP0087,4.0,Active
+PRD00554,Boult Z40 Pro Earbuds - New Edition,Electronics,Headphones,Boult,8392.91,9975.33,2024-12-18,SUP0059,4.1,Active
+PRD00555,Oxford Dictionary Thesaurus Set - Combo Pack,Books,Education,Oxford,2357.05,3185.38,2023-02-10,SUP0103,4.6,Active
+PRD00556,Godrej Interio Steel Almirah - Premium,Home & Kitchen,Furniture,Godrej Interio,41019.65,57116.54,2024-05-17,SUP0100,3.5,Active
+PRD00557,Roadster Hooded Sweatshirt - New Edition,Fashion,Men Clothing,Roadster,2957.45,4001.38,2020-01-31,SUP0064,3.4,Active
+PRD00558,Skechers Memory Foam Walking Shoes - Combo Pack,Fashion,Footwear,Skechers,8378.34,14288.35,2023-03-28,SUP0083,4.6,Active
+PRD00559,Cosco Tennis Balls Pack - New Edition,Sports,Outdoor Sports,Cosco,9041.37,11012.85,2020-07-18,SUP0116,3.7,Active
+PRD00560,Strauss Yoga Mat 6mm - Value Pack 2025,Sports,Fitness Equipment,Strauss,29213.43,34781.33,2024-11-02,SUP0123,4.5,Inactive
+PRD00561,Adidas Training Jacket - Value Pack,Sports,Sportswear,Adidas,1775.55,2997.9,2020-06-28,SUP0138,4.1,Active
+PRD00562,U.S. Polo Assn. Denim Jacket - Value Pack White,Fashion,Men Clothing,U.S. Polo Assn.,1647.46,2100.58,2024-01-27,SUP0107,4.3,Active
+PRD00563,HP Pavilion 15 Ryzen 5 - Premium Blue,Electronics,Laptops,HP,69507.63,100895.25,2023-07-17,SUP0125,3.3,Active
+PRD00564,Sugar Smudge Me Not Lipstick - New Edition 2025,Beauty,Makeup,Sugar,973.45,1384.57,2024-08-06,SUP0107,4.7,Inactive
+PRD00565,Bergmann Tyre Inflator Digital - New Edition,Automotive,Car Accessories,Bergmann,2177.47,2617.49,2021-10-21,SUP0059,4.5,Active
+PRD00566,Himalaya Baby Baby Powder 200g Large,Baby & Kids,Baby Care,Himalaya Baby,699.93,939.55,2021-01-13,SUP0078,4.6,Active
+PRD00567,Colorbar Nail Lacquer - Standard Blue,Beauty,Makeup,Colorbar,1514.53,2067.99,2024-07-18,SUP0112,4.6,Active
+PRD00568,Engage Pocket Perfume Pack - Value Pack,Beauty,Fragrance,Engage,413.79,532.37,2020-07-24,SUP0081,3.6,Active
+PRD00569,Wiley Business Analytics Guide - Standard,Books,Business,Wiley,921.47,1393.88,2024-07-25,SUP0031,4.3,Inactive
+PRD00570,Roadster Casual Denim Shirt,Fashion,Men Clothing,Roadster,860.6,1066.18,2025-05-25,SUP0063,4.0,Active
+PRD00571,Realme Realme 11 Pro 5G - Premium,Electronics,Smartphones,Realme,30854.23,41475.03,2022-11-18,SUP0023,3.9,Active
+PRD00572,Boldfit Push Up Bar Set - Combo Pack,Sports,Fitness Equipment,Boldfit,26393.93,35637.54,2023-12-22,SUP0043,3.4,Active
+PRD00573,Skechers Go Walk Sneakers - Value Pack,Fashion,Footwear,Skechers,3642.1,5879.99,2022-08-09,SUP0081,4.5,Active
+PRD00574,AND Casual Top - Combo Pack,Fashion,Women Clothing,AND,2337.65,3959.39,2025-04-21,SUP0002,3.9,Active
+PRD00575,Bella Vita CEO Man Perfume - New Edition Silver,Beauty,Fragrance,Bella Vita,1035.67,1413.57,2022-11-26,SUP0034,3.4,Active
+PRD00576,Apple MacBook Pro 14 - Value Pack,Electronics,Laptops,Apple,65229.67,102128.54,2023-09-16,SUP0082,3.8,Active
+PRD00577,Bru Instant Coffee Jar - Standard,Grocery,Beverages,Bru,219.97,330.61,2023-04-02,SUP0048,4.4,Active
+PRD00578,Bata Comfort Sandals - Premium White,Fashion,Footwear,Bata,4361.76,7483.54,2024-01-22,SUP0124,4.0,Active
+PRD00579,Spaces Bath Towel Set - Value Pack,Home & Kitchen,Home Decor,Spaces,927.03,1333.19,2025-01-28,SUP0005,3.7,Active
+PRD00580,Fujifilm X-T30 II Mirrorless - New Edition,Electronics,Cameras,Fujifilm,49245.23,60290.87,2023-07-02,SUP0028,4.1,Active
+PRD00581,Axor Apex Riding Helmet - New Edition,Automotive,Bike Accessories,Axor,1749.47,2476.0,2025-07-16,SUP0010,3.5,Active
+PRD00582,LG OLED C2 55 inch Pack of 2,Electronics,Televisions,LG,61103.68,83192.87,2022-09-15,SUP0095,4.3,Active
+PRD00583,Aashirvaad Atta 10 kg - Combo Pack Blue,Grocery,Staples,Aashirvaad,255.2,407.13,2023-01-09,SUP0148,4.1,Inactive
+PRD00584,Lenovo ThinkPad E14 - Value Pack,Electronics,Laptops,Lenovo,93691.89,132131.67,2022-02-22,SUP0144,3.5,Active
+PRD00585,Nike Air Zoom Running Shoes - New Edition,Fashion,Footwear,Nike,1119.04,1850.31,2020-04-04,SUP0059,4.6,Active
+PRD00586,Adidas Training Jacket,Sports,Sportswear,Adidas,3259.7,4659.91,2022-07-08,SUP0125,3.5,Active
+PRD00587,Fossil Gen 6 Smartwatch - Standard,Fashion,Watches,Fossil,3781.09,4687.82,2025-03-20,SUP0144,4.8,Active
+PRD00588,Penguin Business Psychology of Money - Value Pack White,Books,Business,Penguin Business,1192.57,1414.43,2024-12-26,SUP0148,3.4,Active
+PRD00589,Colorbar Nail Lacquer - Combo Pack,Beauty,Makeup,Colorbar,1019.71,1741.96,2022-06-15,SUP0021,4.2,Inactive
+PRD00590,Haldiram’s Namkeen Mixture 1kg - New Edition,Grocery,Snacks,Haldiram’s,147.62,195.97,2023-05-01,SUP0127,4.1,Active
+PRD00591,D’Decor Designer Cushion Covers - Premium,Home & Kitchen,Home Decor,D’Decor,4181.34,6593.5,2020-06-21,SUP0112,3.5,Active
+PRD00592,Penguin Business Psychology of Money - New Edition,Books,Business,Penguin Business,1145.97,1547.45,2020-06-12,SUP0055,3.3,Active
+PRD00593,Max Kids School Shoes - Value Pack 2025,Baby & Kids,Kids Clothing,Max Kids,948.09,1571.83,2024-06-05,SUP0115,3.4,Active
+PRD00594,Samsung Galaxy M34 5G 128GB - Combo Pack,Electronics,Smartphones,Samsung,32738.17,38714.98,2022-04-29,SUP0020,3.3,Active
+PRD00595,Nike Running Shorts - New Edition White,Sports,Sportswear,Nike,3116.86,4058.83,2025-10-07,SUP0137,3.7,Active
+PRD00596,Dove Intense Repair Shampoo - Premium,Grocery,Personal Care,Dove,619.43,764.91,2024-03-27,SUP0135,4.0,Active
+PRD00597,U.S. Polo Assn. Denim Jacket - Premium Large,Fashion,Men Clothing,U.S. Polo Assn.,1588.82,2337.21,2021-08-03,SUP0013,4.2,Active
+PRD00598,Adidas Track Pants Slim Fit - Combo Pack 2025,Sports,Sportswear,Adidas,2256.4,2843.58,2022-10-03,SUP0014,3.6,Active
+PRD00599,Daawat Super Basmati Rice 1 kg - Value Pack,Grocery,Staples,Daawat,690.18,803.31,2022-01-29,SUP0124,3.7,Inactive
+PRD00600,Vega Open Face Helmet - Premium,Automotive,Bike Accessories,Vega,7546.29,9041.34,2021-02-23,SUP0091,4.0,Active
+PRD00601,Home Centre Fabric 3 Seater Sofa - Value Pack,Home & Kitchen,Furniture,Home Centre,52532.39,61362.53,2020-05-29,SUP0004,3.6,Active
+PRD00602,Adidas Ultraboost Sneakers - Premium 2025,Fashion,Footwear,Adidas,6446.87,9145.7,2022-06-10,SUP0043,3.8,Active
+PRD00603,Arihant Competitive Exam Guide - Premium,Books,Education,Arihant,1205.94,1582.13,2025-06-16,SUP0039,3.7,Active
+PRD00604,Wiley Machine Learning Guide - Combo Pack,Books,Education,Wiley,2184.78,2960.26,2023-11-29,SUP0121,4.1,Active
+PRD00605,Hot Wheels Track Builder Set - New Edition,Baby & Kids,Toys,Hot Wheels,3536.42,5542.26,2022-04-19,SUP0147,4.6,Inactive
+PRD00606,Oxford English Grammar Guide - Value Pack,Books,Education,Oxford,2348.25,2823.0,2023-02-05,SUP0038,4.2,Active
+PRD00607,Lakme Matte Lipstick - Premium Pack of 2,Beauty,Makeup,Lakme,1103.55,1455.92,2023-08-09,SUP0052,4.3,Active
+PRD00608,Nike Dry Fit Training T-Shirt Pack of 2,Sports,Sportswear,Nike,4395.53,6257.6,2023-02-03,SUP0131,3.2,Active
+PRD00609,Haldiram’s Aloo Bhujia 400g - Premium,Grocery,Snacks,Haldiram’s,64.89,90.53,2024-02-20,SUP0114,3.8,Active
+PRD00610,Asus Vivobook 15 OLED - Combo Pack,Electronics,Laptops,Asus,46731.99,57986.76,2024-06-08,SUP0024,4.5,Active
+PRD00611,Daawat Rozana Basmati Rice 5 kg,Grocery,Staples,Daawat,822.47,1091.5,2024-08-17,SUP0108,4.3,Inactive
+PRD00612,Adidas Ultraboost Sneakers - Value Pack,Fashion,Footwear,Adidas,3980.73,6349.39,2020-06-16,SUP0021,3.4,Active
+PRD00613,Cultsport Exercise Bike Pro - Value Pack,Sports,Fitness Equipment,Cultsport,21670.1,27232.87,2024-05-01,SUP0088,3.5,Active
+PRD00614,Bergmann Car Pressure Washer Silver,Automotive,Car Accessories,Bergmann,2235.56,3519.51,2023-09-29,SUP0115,4.0,Active
+PRD00615,WOW Skin Science Onion Hair Oil - Premium,Beauty,Haircare,WOW Skin Science,773.9,919.31,2024-01-22,SUP0098,4.8,Inactive
+PRD00616,Red Bull Energy Drink Pack - Premium,Grocery,Beverages,Red Bull,397.89,586.36,2025-12-22,SUP0004,3.2,Active
+PRD00617,Lego Classic Building Blocks Set - Value Pack,Baby & Kids,Toys,Lego,1801.75,3082.42,2020-09-22,SUP0050,3.7,Active
+PRD00618,Nilkamal Shoe Rack 4 Door - Standard,Home & Kitchen,Furniture,Nilkamal,27945.46,46862.43,2020-08-09,SUP0030,4.2,Active
+PRD00619,Lay’s Classic Salted Chips,Grocery,Snacks,Lay’s,265.71,349.22,2022-06-11,SUP0018,4.5,Inactive
+PRD00620,Titan Analog Leather Watch - New Edition,Fashion,Watches,Titan,11466.69,18161.92,2020-08-12,SUP0140,4.4,Active
+PRD00621,Paper Boat Aam Panna 1L - Standard,Grocery,Beverages,Paper Boat,102.2,175.42,2023-02-07,SUP0054,4.0,Active
+PRD00622,Maybelline Fit Me Foundation - New Edition,Beauty,Makeup,Maybelline,891.34,1279.44,2021-06-21,SUP0010,3.2,Active
+PRD00623,Bru Gold Coffee Pouch - Value Pack,Grocery,Beverages,Bru,430.32,502.72,2022-09-04,SUP0062,3.7,Active
+PRD00624,Strauss Yoga Mat 6mm - Standard,Sports,Fitness Equipment,Strauss,12646.89,15421.02,2023-07-23,SUP0102,3.3,Active
+PRD00625,Bikaji Bikaneri Bhujia 400g - New Edition,Grocery,Snacks,Bikaji,233.06,285.11,2022-11-29,SUP0029,4.1,Inactive
+PRD00626,Sony Bravia 55 inch 4K LED - Premium,Electronics,Televisions,Sony,82971.3,114589.46,2022-05-24,SUP0092,3.9,Active
+PRD00627,Steelbird Air SBA Helmet - Standard,Automotive,Bike Accessories,Steelbird,7000.93,9720.7,2023-07-25,SUP0099,4.2,Inactive
+PRD00628,AND Casual Top - New Edition,Fashion,Women Clothing,AND,5796.9,7044.1,2021-03-10,SUP0146,3.5,Active
+PRD00629,Realme Realme 11 Pro 5G Black,Electronics,Smartphones,Realme,49253.47,63543.04,2022-05-06,SUP0078,4.3,Active
+PRD00630,L’Oreal Hydra Fresh Gel Cream,Beauty,Skincare,L’Oreal,1676.0,1953.65,2020-04-03,SUP0006,3.4,Discontinued
+PRD00631,Maybelline Colossal Mascara - Combo Pack,Beauty,Makeup,Maybelline,870.11,1484.86,2023-01-02,SUP0093,4.7,Active
+PRD00632,Cultsport Exercise Bike Pro,Sports,Fitness Equipment,Cultsport,22278.02,26592.4,2020-06-09,SUP0046,4.1,Active
+PRD00633,Denver Hamilton Deodorant,Beauty,Fragrance,Denver,384.9,571.78,2020-04-12,SUP0032,3.3,Active
+PRD00634,Paper Boat Aam Panna 1L - Combo Pack,Grocery,Beverages,Paper Boat,149.3,248.11,2025-01-26,SUP0072,3.4,Active
+PRD00635,Tata Tea Gold Tea 500g - Combo Pack,Grocery,Beverages,Tata Tea,454.95,686.0,2023-07-29,SUP0082,4.2,Inactive
+PRD00636,Vega Open Face Helmet - New Edition XL,Automotive,Bike Accessories,Vega,4438.83,5963.81,2025-06-26,SUP0148,4.0,Active
+PRD00637,Acer Swift Go 14 - New Edition Black,Electronics,Laptops,Acer,53406.35,85180.8,2025-09-15,SUP0138,3.3,Active
+PRD00638,Kobo Adjustable Dumbbell Set - Value Pack 2025,Sports,Fitness Equipment,Kobo,22531.05,26593.01,2024-05-17,SUP0063,3.7,Active
+PRD00639,U.S. Polo Assn. Denim Jacket - Standard,Fashion,Men Clothing,U.S. Polo Assn.,2440.61,2866.46,2020-10-21,SUP0120,3.3,Active
+PRD00640,Nivia Basketball Official Size - Premium,Sports,Outdoor Sports,Nivia,9653.44,11619.52,2025-07-27,SUP0124,4.1,Active
+PRD00641,Titan Edge Ceramic Watch,Fashion,Watches,Titan,8326.14,11066.81,2020-12-20,SUP0030,3.8,Active
+PRD00642,D’Decor Designer Cushion Covers - Premium Pack of 2,Home & Kitchen,Home Decor,D’Decor,1327.47,1678.38,2021-11-29,SUP0072,3.7,Active
+PRD00643,Nike Air Zoom Running Shoes - New Edition Blue,Fashion,Footwear,Nike,6164.74,9642.07,2020-09-01,SUP0028,4.3,Active
+PRD00644,Fortune Sunflower Oil 5 L - Combo Pack White,Grocery,Staples,Fortune,661.44,826.68,2023-06-27,SUP0025,3.7,Active
+PRD00645,Peter England Formal Trouser - Standard Blue,Fashion,Men Clothing,Peter England,2807.14,3956.05,2021-11-25,SUP0096,4.3,Active
+PRD00646,Nescafe Classic Coffee 200g,Grocery,Beverages,Nescafe,605.34,850.32,2025-10-19,SUP0006,3.8,Active
+PRD00647,U.S. Polo Assn. Polo T-Shirt White,Fashion,Men Clothing,U.S. Polo Assn.,2278.78,2722.04,2021-12-03,SUP0006,4.7,Active
+PRD00648,Pearson Python Programming Textbook - Standard White,Books,Education,Pearson,1643.41,2127.65,2024-01-22,SUP0033,4.1,Active
+PRD00649,Rynox Mobile Holder Bike - Standard,Automotive,Bike Accessories,Rynox,4610.85,7919.87,2021-11-22,SUP0140,4.8,Active
+PRD00650,Rynox Riding Gloves Urban - Value Pack Pack of 2,Automotive,Bike Accessories,Rynox,3095.11,4894.04,2022-01-08,SUP0025,3.5,Active
+PRD00651,Under Armour Tech 2.0 T-Shirt - New Edition,Sports,Sportswear,Under Armour,4378.53,7006.09,2023-11-21,SUP0012,3.4,Inactive
+PRD00652,Canon EOS R50 Mirrorless White,Electronics,Cameras,Canon,60907.37,89162.93,2025-10-29,SUP0001,4.2,Active
+PRD00653,Pampers Diaper Pants Large - Standard Pack of 2,Baby & Kids,Baby Care,Pampers,867.24,1214.5,2024-10-19,SUP0115,4.7,Inactive
+PRD00654,Wavex Car Shampoo 5L - Value Pack XL,Automotive,Car Accessories,Wavex,4005.64,6853.54,2025-01-31,SUP0058,4.5,Active
+PRD00655,L’Oreal Hair Serum Smooth - New Edition,Beauty,Haircare,L’Oreal,885.19,1269.58,2023-11-30,SUP0096,3.8,Active
+PRD00656,Timex Expedition Watch - Value Pack XL,Fashion,Watches,Timex,7897.7,9453.82,2021-01-15,SUP0050,3.5,Active
+PRD00657,Vero Moda Floral Midi Dress,Fashion,Women Clothing,Vero Moda,6493.01,7883.0,2021-04-17,SUP0073,4.5,Active
+PRD00658,Sebamed Baby Wash Extra Soft - New Edition,Baby & Kids,Baby Care,Sebamed,775.97,1154.22,2023-07-07,SUP0040,3.3,Active
+PRD00659,Dove Body Wash 500ml - Standard Silver,Grocery,Personal Care,Dove,548.34,681.62,2020-02-12,SUP0062,4.5,Active
+PRD00660,TCL TCL 55 inch Mini LED TV - Value Pack,Electronics,Televisions,TCL,91967.02,110541.96,2021-12-15,SUP0043,4.3,Active
+PRD00661,Himalaya Baby Baby Lotion 400ml,Baby & Kids,Baby Care,Himalaya Baby,1425.73,2031.06,2024-04-23,SUP0044,4.0,Active
+PRD00662,Bru Instant Coffee Jar - Premium,Grocery,Beverages,Bru,370.22,461.92,2025-11-05,SUP0027,4.5,Inactive
+PRD00663,Yonex Shuttlecock Mavis 350 - Standard,Sports,Outdoor Sports,Yonex,6110.36,9820.04,2020-10-18,SUP0056,3.6,Active
+PRD00664,Hopscotch Party Wear Dress - New Edition,Baby & Kids,Kids Clothing,Hopscotch,446.96,691.59,2025-12-10,SUP0020,4.3,Active
+PRD00665,Bloomsbury Harry Potter Box Set - Premium,Books,Fiction,Bloomsbury,2191.16,2685.73,2024-01-23,SUP0041,4.1,Inactive
+PRD00666,Studds Ninja Elite Helmet - New Edition XL,Automotive,Bike Accessories,Studds,2173.1,2781.01,2021-12-22,SUP0052,3.8,Discontinued
+PRD00667,Biotique Bhringraj Hair Oil Large,Beauty,Haircare,Biotique,566.9,946.63,2021-06-17,SUP0092,3.4,Inactive
+PRD00668,Neutrogena Hydrating Moisturizer - Premium,Beauty,Skincare,Neutrogena,1304.19,1821.67,2024-04-12,SUP0034,3.4,Active
+PRD00669,Hot Wheels Die Cast Car Pack - Standard Blue,Baby & Kids,Toys,Hot Wheels,4838.94,6397.36,2024-09-11,SUP0009,4.5,Active
+PRD00670,Adidas Track Pants Slim Fit - Combo Pack 2025,Sports,Sportswear,Adidas,2462.84,2866.18,2024-01-29,SUP0067,4.6,Inactive
+PRD00671,Levi’s Graphic Cotton T-Shirt - New Edition,Fashion,Men Clothing,Levi’s,4387.04,5728.82,2020-07-31,SUP0110,4.3,Active
+PRD00672,Bru Instant Coffee Jar - Standard Blue,Grocery,Beverages,Bru,179.16,252.67,2020-08-14,SUP0051,4.8,Active
+PRD00673,Kobo Adjustable Dumbbell Set - New Edition,Sports,Fitness Equipment,Kobo,19761.74,32313.58,2024-02-21,SUP0091,3.9,Active
+PRD00674,Pearson Python Programming Textbook - Premium 2025,Books,Education,Pearson,1050.88,1495.74,2022-10-17,SUP0031,4.6,Active
+PRD00675,Philips Mixer Grinder 750W - Value Pack,Home & Kitchen,Kitchen Appliances,Philips,7702.23,9917.77,2021-04-26,SUP0075,4.5,Inactive
+PRD00676,Funskool Board Game Family Pack - Value Pack,Baby & Kids,Toys,Funskool,3783.9,4899.05,2025-07-12,SUP0108,4.2,Active
+PRD00677,Dove Daily Shine Shampoo - Standard,Beauty,Haircare,Dove,1148.23,1732.95,2024-10-02,SUP0036,3.7,Active
+PRD00678,Mee Mee Baby Wipes Pack - Premium Silver,Baby & Kids,Baby Care,Mee Mee,465.31,616.13,2021-06-17,SUP0085,4.3,Active
+PRD00679,Studds Ninja Elite Helmet - Standard,Automotive,Bike Accessories,Studds,3113.39,4777.74,2023-09-20,SUP0066,3.8,Active
+PRD00680,TCL TCL 43 inch QLED TV - Value Pack XL,Electronics,Televisions,TCL,77811.91,102498.61,2023-01-13,SUP0040,4.1,Active
+PRD00681,Wonderchef Stainless Steel Kadai - Premium,Home & Kitchen,Cookware,Wonderchef,2002.58,3294.73,2024-12-30,SUP0047,3.3,Discontinued
+PRD00682,Lifelong Home Gym Set,Sports,Fitness Equipment,Lifelong,9787.64,14211.01,2024-11-23,SUP0131,4.1,Active
+PRD00683,MSI Modern 14 Ryzen 7 - New Edition,Electronics,Laptops,MSI,66653.98,113693.32,2024-05-10,SUP0028,4.3,Active
+PRD00684,Puma DryCELL T-Shirt - New Edition,Sports,Sportswear,Puma,3706.59,5093.64,2022-03-04,SUP0003,3.7,Active
+PRD00685,Arihant Competitive Exam Guide - Value Pack,Books,Education,Arihant,1418.04,1973.22,2022-12-28,SUP0078,3.3,Active
+PRD00686,Casio Edifice Chronograph - New Edition,Fashion,Watches,Casio,6680.1,9317.48,2020-06-18,SUP0088,3.6,Inactive
+PRD00687,Johnson’s Baby Oil 500ml - Premium,Baby & Kids,Baby Care,Johnson’s,1313.39,2037.02,2023-03-31,SUP0131,3.5,Active
+PRD00688,Wakefit Queen Bed with Storage - Combo Pack,Home & Kitchen,Furniture,Wakefit,38288.58,50563.35,2021-08-18,SUP0057,3.9,Active
+PRD00689,Van Heusen Slim Fit Shirt - New Edition,Fashion,Men Clothing,Van Heusen,2133.35,3619.22,2022-10-24,SUP0140,4.6,Active
+PRD00690,Godrej Interio 3 Door Wardrobe - New Edition Silver,Home & Kitchen,Furniture,Godrej Interio,50681.64,61752.12,2022-05-16,SUP0052,4.2,Active
+PRD00691,Himalaya Neem Face Wash - Standard,Grocery,Personal Care,Himalaya,179.05,246.02,2025-08-02,SUP0143,4.2,Active
+PRD00692,Steelbird Air SBA Helmet - New Edition,Automotive,Bike Accessories,Steelbird,3532.89,5732.25,2024-11-30,SUP0143,4.7,Active
+PRD00693,Wonderchef Ceramic Cookware Set - Premium,Home & Kitchen,Cookware,Wonderchef,2788.15,4572.4,2023-07-19,SUP0115,4.5,Active
+PRD00694,Fisher-Price Activity Walker XL,Baby & Kids,Toys,Fisher-Price,4679.07,5751.23,2023-11-20,SUP0106,3.8,Active
+PRD00695,Skechers Memory Foam Walking Shoes - Standard,Fashion,Footwear,Skechers,5252.37,7967.56,2023-06-25,SUP0144,4.6,Active
+PRD00696,Skechers Go Walk Sneakers - New Edition,Fashion,Footwear,Skechers,8845.63,12516.54,2022-02-10,SUP0120,4.7,Active
+PRD00697,Bata Formal Leather Shoes - New Edition,Fashion,Footwear,Bata,2135.58,3427.13,2025-01-15,SUP0001,3.4,Active
+PRD00698,Apple MacBook Air M2 - Premium,Electronics,Laptops,Apple,90918.66,142924.28,2021-11-25,SUP0008,4.2,Active
+PRD00699,Bikaji Bikaneri Bhujia 400g - New Edition Pack of 2,Grocery,Snacks,Bikaji,291.62,464.73,2022-08-30,SUP0049,4.0,Active
+PRD00700,Biba Anarkali Dress - Combo Pack Silver,Fashion,Women Clothing,Biba,4860.46,6464.11,2023-03-18,SUP0083,4.1,Active
+PRD00701,Nescafe Classic Coffee 200g - New Edition,Grocery,Beverages,Nescafe,509.74,687.05,2022-01-05,SUP0054,3.4,Active
+PRD00702,Asus TUF Gaming F15 - New Edition,Electronics,Laptops,Asus,79884.53,115740.73,2020-02-03,SUP0117,4.1,Inactive
+PRD00703,Urban Ladder Fabric Recliner Chair - Premium XL,Home & Kitchen,Furniture,Urban Ladder,18312.19,26551.74,2025-02-01,SUP0050,4.8,Active
+PRD00704,Wakefit Queen Bed with Storage - New Edition,Home & Kitchen,Furniture,Wakefit,62059.94,73539.19,2021-12-06,SUP0133,3.7,Active
+PRD00705,Hamleys Soft Teddy Bear,Baby & Kids,Toys,Hamleys,3083.07,4857.77,2025-02-14,SUP0123,3.5,Active
+PRD00706,TCL TCL 43 inch QLED TV - Standard Pack of 2,Electronics,Televisions,TCL,80820.37,107288.7,2022-05-21,SUP0062,3.4,Active
+PRD00707,Adidas Track Pants Slim Fit - Standard,Sports,Sportswear,Adidas,4334.4,7439.08,2023-10-09,SUP0070,3.5,Active
+PRD00708,Oxford Dictionary Thesaurus Set - Value Pack,Books,Education,Oxford,1184.66,1910.29,2020-06-07,SUP0142,3.9,Active
+PRD00709,Dove Daily Shine Shampoo - Standard Blue,Beauty,Haircare,Dove,1350.2,1889.64,2025-07-22,SUP0121,4.2,Active
+PRD00710,Allen Solly Cotton Formal Shirt - New Edition,Fashion,Men Clothing,Allen Solly,5086.95,6715.59,2023-05-11,SUP0106,4.2,Active
+PRD00711,W Straight Fit Kurti - Standard,Fashion,Women Clothing,W,5423.73,7344.78,2025-04-16,SUP0021,3.2,Active
+PRD00712,Sennheiser HD 450BT Headphones - Standard White,Electronics,Headphones,Sennheiser,5438.13,6988.64,2022-03-24,SUP0111,3.2,Active
+PRD00713,Dell Vostro 3520 Laptop - Value Pack,Electronics,Laptops,Dell,28768.88,39493.15,2021-05-03,SUP0077,3.4,Active
+PRD00714,Story@Home Wall Clock Wooden - Value Pack,Home & Kitchen,Home Decor,Story@Home,2571.79,4315.87,2021-04-15,SUP0037,4.0,Active
+PRD00715,Dove Hair Fall Conditioner - New Edition Silver,Beauty,Haircare,Dove,966.21,1615.49,2025-04-04,SUP0063,3.5,Active
+PRD00716,Rupa Wise and Otherwise - Premium Pack of 2,Books,Fiction,Rupa,2086.54,2753.0,2024-04-14,SUP0016,3.9,Active
+PRD00717,Faces Canada Weightless Matte Lipstick - Value Pack,Beauty,Makeup,Faces Canada,690.04,956.85,2022-06-24,SUP0057,4.4,Active
+PRD00718,Bikaji Bikaneri Bhujia 400g,Grocery,Snacks,Bikaji,159.29,221.58,2023-07-15,SUP0004,4.1,Active
+PRD00719,Yonex Shuttlecock Mavis 350 - New Edition,Sports,Outdoor Sports,Yonex,6156.12,9650.59,2020-03-15,SUP0060,4.1,Inactive
+PRD00720,Wonderchef Stainless Steel Kadai - Standard Large,Home & Kitchen,Cookware,Wonderchef,2530.18,4275.02,2022-07-18,SUP0105,3.4,Active
+PRD00721,Wiley Deep Learning Textbook - Value Pack,Books,Education,Wiley,3430.48,4028.08,2025-03-01,SUP0005,4.0,Active
+PRD00722,Funskool Monopoly India Edition 2025,Baby & Kids,Toys,Funskool,2198.12,3788.87,2023-07-23,SUP0078,3.5,Active
+PRD00723,Tresemme Hair Mask Repair - New Edition White,Beauty,Haircare,Tresemme,489.46,839.12,2020-04-23,SUP0026,3.5,Active
+PRD00724,Puma Smashic Casual Shoes - Value Pack,Fashion,Footwear,Puma,4472.11,7520.08,2023-04-13,SUP0067,3.8,Active
+PRD00725,Ikea Wall Shelf Unit - New Edition,Home & Kitchen,Home Decor,Ikea,4257.2,5145.42,2020-09-29,SUP0149,3.9,Discontinued
+PRD00726,Prestige Electric Kettle 1.8L,Home & Kitchen,Kitchen Appliances,Prestige,5405.3,7088.51,2025-08-13,SUP0056,3.4,Active
+PRD00727,Ambrane Phone Holder Dashboard - New Edition,Automotive,Car Accessories,Ambrane,4039.84,5946.75,2025-01-20,SUP0099,4.0,Active
+PRD00728,Spaces Bath Towel Set - Value Pack XL,Home & Kitchen,Home Decor,Spaces,2920.14,3724.26,2021-04-30,SUP0006,3.6,Active
+PRD00729,Hot Wheels Track Builder Set - New Edition White,Baby & Kids,Toys,Hot Wheels,5237.94,7021.41,2022-08-08,SUP0073,3.5,Active
+PRD00730,Fortune Sunflower Oil 5 L - Premium,Grocery,Staples,Fortune,640.61,1018.84,2022-04-09,SUP0136,4.5,Active
+PRD00731,Colgate Toothpaste Family Pack - Standard,Grocery,Personal Care,Colgate,314.85,437.73,2025-04-01,SUP0082,4.8,Active
+PRD00732,Vega Full Face Helmet,Automotive,Bike Accessories,Vega,5341.01,8053.46,2022-12-01,SUP0054,3.2,Active
+PRD00733,Ambrane Car Charger 36W,Automotive,Car Accessories,Ambrane,4755.11,7724.37,2022-01-27,SUP0060,3.7,Active
+PRD00734,Wild Stone Men Fresh Fragrance - Value Pack,Beauty,Fragrance,Wild Stone,1973.02,2484.65,2022-12-07,SUP0008,3.5,Active
+PRD00735,Campus Sports Running Shoes - Combo Pack,Fashion,Footwear,Campus,5937.01,9243.16,2023-06-07,SUP0061,3.9,Active
+PRD00736,Rynox Mobile Holder Bike - Premium,Automotive,Bike Accessories,Rynox,3441.87,4063.06,2022-11-04,SUP0032,4.7,Active
+PRD00737,Lifelong Resistance Band Kit - New Edition,Sports,Fitness Equipment,Lifelong,12478.02,18109.93,2024-10-09,SUP0100,3.5,Active
+PRD00738,Nikon D5600 DSLR Kit - Standard,Electronics,Cameras,Nikon,43969.95,58087.26,2020-08-25,SUP0132,4.4,Discontinued
+PRD00739,Story@Home Wall Clock Wooden,Home & Kitchen,Home Decor,Story@Home,3555.76,5284.52,2020-06-24,SUP0144,3.7,Inactive
+PRD00740,Rynox Riding Gloves Urban,Automotive,Bike Accessories,Rynox,4809.02,6757.92,2021-01-02,SUP0040,3.9,Active
+PRD00741,Biotique Bio Kelp Shampoo,Beauty,Haircare,Biotique,595.6,969.17,2023-08-13,SUP0077,4.4,Active
+PRD00742,Aurelia A-Line Kurta - Value Pack,Fashion,Women Clothing,Aurelia,2824.02,4023.74,2024-03-03,SUP0080,4.2,Active
+PRD00743,Noise Fit Halo Smartwatch - New Edition,Fashion,Watches,Noise,4072.4,6123.43,2022-08-27,SUP0142,3.9,Active
+PRD00744,Pigeon Granite Fry Pan - Value Pack XL,Home & Kitchen,Cookware,Pigeon,3484.62,5970.39,2020-04-12,SUP0110,4.7,Active
+PRD00745,Levi’s 511 Slim Fit Denim Jeans - Standard,Fashion,Men Clothing,Levi’s,2029.78,2979.44,2020-02-19,SUP0096,3.7,Active
+PRD00746,Oxford English Grammar Guide - Value Pack Black,Books,Education,Oxford,881.35,1277.97,2022-02-09,SUP0024,4.5,Active
+PRD00747,Bella Vita CEO Man Perfume - Premium XL,Beauty,Fragrance,Bella Vita,756.03,1193.51,2023-09-03,SUP0044,4.7,Active
+PRD00748,SG Cricket Kit Bag - Combo Pack Large,Sports,Outdoor Sports,SG,2948.99,4598.07,2021-05-19,SUP0085,4.1,Active
+PRD00749,Tresemme Keratin Smooth Shampoo - Value Pack 2025,Beauty,Haircare,Tresemme,842.71,1413.89,2022-03-28,SUP0032,4.3,Active
+PRD00750,Johnson’s Baby Oil 500ml - New Edition Pack of 2,Baby & Kids,Baby Care,Johnson’s,714.76,1129.2,2021-06-01,SUP0132,3.8,Active
+PRD00751,Godrej Interio 3 Door Wardrobe - Value Pack,Home & Kitchen,Furniture,Godrej Interio,22216.22,25984.45,2020-09-24,SUP0061,4.6,Active
+PRD00752,Noise ColorFit Smart Watch - Combo Pack,Fashion,Watches,Noise,5210.49,8013.58,2020-07-18,SUP0131,3.5,Active
+PRD00753,Fabindia Cotton Saree - New Edition Blue,Fashion,Women Clothing,Fabindia,4438.79,7431.08,2023-05-01,SUP0069,3.9,Active
+PRD00754,HP Pavilion 15 Ryzen 5 - Value Pack,Electronics,Laptops,HP,59680.01,95258.21,2022-12-08,SUP0110,4.8,Active
+PRD00755,Canon EOS R50 Mirrorless - Value Pack,Electronics,Cameras,Canon,59788.67,89385.46,2022-10-07,SUP0035,4.6,Active
+PRD00756,Too Yumm Foxnuts Peri Peri - Standard Black,Grocery,Snacks,Too Yumm,253.42,398.8,2023-09-13,SUP0037,3.5,Active
+PRD00757,Roadster Hooded Sweatshirt - Combo Pack,Fashion,Men Clothing,Roadster,4487.37,5475.57,2023-09-11,SUP0010,4.8,Active
+PRD00758,Butterfly Rapid Electric Kettle - New Edition,Home & Kitchen,Kitchen Appliances,Butterfly,7323.49,8733.83,2020-09-20,SUP0117,4.8,Active
+PRD00759,Lay’s Classic Salted Chips - Value Pack XL,Grocery,Snacks,Lay’s,148.51,234.14,2022-01-09,SUP0085,3.6,Inactive
+PRD00760,Wiley Deep Learning Textbook,Books,Education,Wiley,1706.14,2748.5,2021-02-28,SUP0145,4.2,Active
+PRD00761,HarperCollins Ikigai Hardcover - Premium,Books,Fiction,HarperCollins,1002.6,1722.93,2021-10-25,SUP0007,3.8,Active
+PRD00762,Wiley Business Analytics Guide,Books,Business,Wiley,874.12,1266.6,2021-06-25,SUP0086,4.6,Active
+PRD00763,Lifelong Resistance Band Kit,Sports,Fitness Equipment,Lifelong,16992.29,25707.2,2024-02-19,SUP0124,4.2,Active
+PRD00764,Motorola Moto Edge 40 - Standard,Electronics,Smartphones,Motorola,27262.15,34996.18,2022-08-08,SUP0107,4.3,Active
+PRD00765,Bata Formal Leather Shoes - Premium,Fashion,Footwear,Bata,6502.14,11174.54,2022-11-13,SUP0008,3.6,Inactive
+PRD00766,AND Workwear Dress,Fashion,Women Clothing,AND,3942.3,4936.45,2025-09-20,SUP0085,3.5,Active
+PRD00767,OnePlus Nord 3 5G 2025,Electronics,Smartphones,OnePlus,50122.36,72195.89,2024-06-02,SUP0074,3.3,Active
+PRD00768,Sony Alpha ZV-E10 Vlog Camera - Standard,Electronics,Cameras,Sony,25138.92,34607.85,2024-07-26,SUP0026,4.5,Active
+PRD00769,Sennheiser CX True Wireless - Premium,Electronics,Headphones,Sennheiser,4198.51,5819.32,2024-09-05,SUP0036,3.9,Active
+PRD00770,Arihant Competitive Exam Guide - Premium White,Books,Education,Arihant,1668.53,2476.86,2020-03-03,SUP0144,4.3,Active
+PRD00771,Penguin Business Rich Dad Poor Dad - Value Pack,Books,Business,Penguin Business,1328.39,1790.18,2025-07-11,SUP0119,4.4,Active
+PRD00772,Neutrogena Hydrating Moisturizer - New Edition Blue,Beauty,Skincare,Neutrogena,1665.14,2413.93,2025-05-25,SUP0030,4.5,Active
+PRD00773,JBL Tune 760NC Bluetooth - Standard,Electronics,Headphones,JBL,8436.34,14335.3,2020-01-23,SUP0003,4.0,Active
+PRD00774,Vega Full Face Helmet - New Edition,Automotive,Bike Accessories,Vega,6440.5,9238.8,2025-11-19,SUP0140,3.6,Active
+PRD00775,Morphy Richards OTG 28L Oven - New Edition,Home & Kitchen,Kitchen Appliances,Morphy Richards,6881.81,8287.03,2021-07-09,SUP0078,3.8,Inactive
+PRD00776,Colorbar Liquid Foundation - New Edition,Beauty,Makeup,Colorbar,925.52,1362.16,2022-08-05,SUP0013,3.3,Active
+PRD00777,Babyhug Night Suit Set - New Edition,Baby & Kids,Kids Clothing,Babyhug,1880.8,2624.66,2022-09-23,SUP0021,3.6,Active
+PRD00778,Mothercare Baby Romper Set - Premium Black,Baby & Kids,Kids Clothing,Mothercare,2232.73,2777.64,2020-06-13,SUP0134,3.6,Inactive
+PRD00779,McGraw Hill Quantitative Aptitude Book - Standard Black,Books,Education,McGraw Hill,2533.06,3528.15,2020-01-30,SUP0008,3.5,Active
+PRD00780,Penguin The Alchemist Paperback - Value Pack,Books,Fiction,Penguin,1252.99,1616.48,2023-03-11,SUP0133,3.3,Active
+PRD00781,Pigeon Non-Stick Tawa,Home & Kitchen,Cookware,Pigeon,5516.27,6951.63,2025-07-22,SUP0033,4.6,Active
+PRD00782,Vero Moda Floral Midi Dress - Value Pack Large,Fashion,Women Clothing,Vero Moda,3076.01,4344.88,2023-12-20,SUP0043,4.8,Active
+PRD00783,Lifelong Resistance Band Kit - Standard,Sports,Fitness Equipment,Lifelong,16277.86,19445.99,2024-01-23,SUP0064,4.4,Active
+PRD00784,Bloomsbury Harry Potter Box Set - New Edition,Books,Fiction,Bloomsbury,1792.6,2900.84,2023-05-13,SUP0107,4.5,Active
+PRD00785,L’Oreal Hydra Fresh Gel Cream - New Edition,Beauty,Skincare,L’Oreal,1608.04,2488.6,2023-10-22,SUP0037,4.2,Active
+PRD00786,Fortune Sunflower Oil 5 L - Premium Silver,Grocery,Staples,Fortune,624.72,993.98,2020-03-18,SUP0051,3.7,Active
+PRD00787,Ikea Wall Shelf Unit - Value Pack,Home & Kitchen,Home Decor,Ikea,5223.93,6522.87,2025-05-05,SUP0045,4.1,Active
+PRD00788,GoPro Hero 11 Action Camera - Combo Pack,Electronics,Cameras,GoPro,38563.84,61566.19,2020-02-03,SUP0043,4.1,Active
+PRD00789,Realme Narzo 60 5G - Combo Pack,Electronics,Smartphones,Realme,34708.74,51348.69,2024-12-05,SUP0077,4.4,Active
+PRD00790,Nikon D5600 DSLR Kit - Combo Pack,Electronics,Cameras,Nikon,50811.28,67801.83,2025-09-30,SUP0112,3.6,Active
+PRD00791,Funskool Monopoly India Edition XL,Baby & Kids,Toys,Funskool,3047.61,3877.16,2022-10-12,SUP0059,3.4,Active
+PRD00792,Paper Boat Aam Panna 1L - Standard Black,Grocery,Beverages,Paper Boat,189.38,313.78,2023-10-05,SUP0093,4.2,Active
+PRD00793,Morphy Richards OTG 28L Oven - Value Pack,Home & Kitchen,Kitchen Appliances,Morphy Richards,2876.62,3938.0,2022-04-24,SUP0084,4.2,Active
+PRD00794,Fossil Gen 6 Smartwatch - Standard 2025,Fashion,Watches,Fossil,5699.35,8270.41,2024-09-17,SUP0050,3.2,Active
+PRD00795,Harper Business Good to Great - New Edition,Books,Business,Harper Business,2226.66,2806.68,2023-02-24,SUP0047,4.8,Active
+PRD00796,Vero Moda Denim Jacket - Value Pack,Fashion,Women Clothing,Vero Moda,1768.39,2255.2,2025-06-08,SUP0030,4.4,Active
+PRD00797,Bajaj Room Heater Majesty - Premium White,Home & Kitchen,Kitchen Appliances,Bajaj,6716.41,7977.03,2025-08-02,SUP0089,3.2,Active
+PRD00798,Fabindia Handloom Kurta - New Edition,Fashion,Women Clothing,Fabindia,3320.53,5113.77,2025-02-08,SUP0133,4.7,Inactive
+PRD00799,Nilkamal Plastic Storage Cabinet - Premium,Home & Kitchen,Furniture,Nilkamal,20039.64,24204.7,2023-04-26,SUP0040,3.4,Active
+PRD00800,Nike Dry Fit Training T-Shirt - New Edition,Sports,Sportswear,Nike,3702.8,4659.32,2024-12-18,SUP0016,4.6,Active
+PRD00801,Sony Alpha A6400 Mirrorless,Electronics,Cameras,Sony,31120.64,44449.73,2025-10-31,SUP0022,4.1,Discontinued
+PRD00802,Nivia Basketball Official Size - New Edition,Sports,Outdoor Sports,Nivia,9519.18,11112.12,2024-03-10,SUP0115,4.4,Active
+PRD00803,Lakme 9to5 Compact Powder - Value Pack,Beauty,Makeup,Lakme,1104.45,1654.04,2020-12-07,SUP0112,4.3,Active
+PRD00804,Tresemme Hair Mask Repair,Beauty,Haircare,Tresemme,988.81,1677.61,2022-08-31,SUP0150,3.7,Inactive
+PRD00805,Dell Vostro 3520 Laptop - Value Pack Pack of 2,Electronics,Laptops,Dell,65190.77,95061.48,2023-04-21,SUP0038,4.3,Active
+PRD00806,Oxford Dictionary Thesaurus Set,Books,Education,Oxford,2605.37,3826.03,2024-01-16,SUP0092,3.3,Active
+PRD00807,Kobo Adjustable Dumbbell Set - Premium Pack of 2,Sports,Fitness Equipment,Kobo,9659.54,13688.43,2021-09-03,SUP0043,4.2,Active
+PRD00808,Colorbar Nail Lacquer - Standard 2025,Beauty,Makeup,Colorbar,1226.88,1891.71,2025-02-10,SUP0074,4.4,Active
+PRD00809,OnePlus OnePlus 11R 5G - Value Pack,Electronics,Smartphones,OnePlus,27335.49,34160.56,2024-06-13,SUP0117,4.5,Active
+PRD00810,Plum Green Tea Toner - New Edition,Beauty,Skincare,Plum,1317.53,1604.26,2022-09-14,SUP0105,3.5,Active
+PRD00811,Urban Ladder Sheesham Coffee Table,Home & Kitchen,Furniture,Urban Ladder,42221.28,62886.91,2020-09-24,SUP0009,3.7,Active
+PRD00812,Kurkure Green Chutney Style - Standard,Grocery,Snacks,Kurkure,182.32,289.13,2020-07-25,SUP0041,4.1,Active
+PRD00813,OnePlus Nord 3 5G - Standard Large,Electronics,Smartphones,OnePlus,39504.17,52559.03,2020-07-02,SUP0120,4.7,Active
+PRD00814,Nilkamal Shoe Rack 4 Door Black,Home & Kitchen,Furniture,Nilkamal,49595.44,62558.89,2023-09-10,SUP0044,3.9,Inactive
+PRD00815,Apple iPhone 14 128GB,Electronics,Smartphones,Apple,33452.96,40811.22,2022-08-18,SUP0049,4.4,Active
+PRD00816,Adidas Runfalcon Shoes - New Edition White,Fashion,Footwear,Adidas,7333.94,12242.8,2025-08-30,SUP0019,3.2,Active
+PRD00817,Boldfit Push Up Bar Set - Premium,Sports,Fitness Equipment,Boldfit,15567.89,18599.79,2023-12-03,SUP0044,4.0,Active
+PRD00818,Haldiram’s Aloo Bhujia 400g - New Edition,Grocery,Snacks,Haldiram’s,150.42,185.86,2022-05-08,SUP0101,3.5,Active
+PRD00819,Fastrack Reflex Smart Band - New Edition Blue,Fashion,Watches,Fastrack,7658.67,9195.94,2023-11-19,SUP0061,3.9,Active
+PRD00820,Apple iPhone 15 128GB - Value Pack,Electronics,Smartphones,Apple,37363.73,62143.61,2022-08-31,SUP0058,3.7,Active
+PRD00821,Wild Stone Code Titanium Perfume - New Edition,Beauty,Fragrance,Wild Stone,919.76,1470.41,2025-05-19,SUP0095,3.6,Active
+PRD00822,Denver Hamilton Deodorant - Premium,Beauty,Fragrance,Denver,1353.94,1979.87,2021-05-11,SUP0021,3.8,Active
+PRD00823,SG Cricket Kit Bag - Value Pack,Sports,Outdoor Sports,SG,9704.01,14583.4,2023-05-08,SUP0021,3.9,Active
+PRD00824,Vu Vu Premium 43 inch TV - Standard,Electronics,Televisions,Vu,118330.81,171344.91,2024-06-29,SUP0054,4.3,Active
+PRD00825,Hamleys Remote Control Car - Standard,Baby & Kids,Toys,Hamleys,3976.98,5948.58,2025-06-05,SUP0080,3.4,Active
+PRD00826,Urban Ladder Sheesham Coffee Table - Value Pack 2025,Home & Kitchen,Furniture,Urban Ladder,40003.04,66308.84,2021-04-12,SUP0019,4.7,Active
+PRD00827,Decathlon Hiking Backpack 30L - Standard Silver,Sports,Outdoor Sports,Decathlon,6248.09,8885.88,2024-06-21,SUP0132,3.5,Active
+PRD00828,Max Kids Printed Shorts - Standard Blue,Baby & Kids,Kids Clothing,Max Kids,1584.5,2050.91,2025-02-25,SUP0099,3.3,Active
+PRD00829,Cucumber Cotton Vest Pack,Baby & Kids,Kids Clothing,Cucumber,2991.53,3798.14,2024-01-02,SUP0139,4.6,Active
+PRD00830,Mamaearth Vitamin C Face Serum - Combo Pack White,Beauty,Skincare,Mamaearth,2601.87,3629.5,2020-03-07,SUP0004,4.2,Active
+PRD00831,Tata Sampann Masoor Dal 1 kg - Premium,Grocery,Staples,Tata Sampann,457.72,618.37,2020-12-21,SUP0007,3.9,Active
+PRD00832,Van Heusen Slim Fit Shirt - Value Pack,Fashion,Men Clothing,Van Heusen,4584.81,5829.32,2024-09-18,SUP0076,4.6,Active
+PRD00833,Lay’s Classic Salted Chips - Standard Pack of 2,Grocery,Snacks,Lay’s,211.58,294.92,2024-04-11,SUP0077,4.1,Active
+PRD00834,Fogg Perfume Spray 100ml - Value Pack,Beauty,Fragrance,Fogg,955.41,1646.51,2023-11-20,SUP0020,3.3,Active
+PRD00835,Aurelia A-Line Kurta - New Edition,Fashion,Women Clothing,Aurelia,3895.49,4834.97,2024-12-09,SUP0093,3.5,Active
+PRD00836,L’Oreal Hydra Fresh Gel Cream - Premium,Beauty,Skincare,L’Oreal,2572.07,3704.13,2024-05-20,SUP0054,3.3,Inactive
+PRD00837,Van Heusen Blazer Regular Fit - Combo Pack,Fashion,Men Clothing,Van Heusen,2017.36,3173.87,2023-03-02,SUP0069,3.4,Active
+PRD00838,Fabindia Cotton Saree - Standard,Fashion,Women Clothing,Fabindia,1502.69,2402.9,2024-09-18,SUP0143,4.2,Active
+PRD00839,Nivia Football Size 5 - New Edition,Sports,Outdoor Sports,Nivia,7548.57,10686.6,2025-03-02,SUP0002,4.2,Active
+PRD00840,Axor Apex Riding Helmet - Value Pack,Automotive,Bike Accessories,Axor,4758.45,7667.96,2023-11-17,SUP0134,4.6,Active
+PRD00841,Bru Gold Coffee Pouch - Combo Pack Blue,Grocery,Beverages,Bru,350.97,490.72,2025-02-22,SUP0097,3.4,Active
+PRD00842,Nivia Football Size 5 - New Edition 2025,Sports,Outdoor Sports,Nivia,7603.63,12314.35,2021-12-30,SUP0080,4.0,Active
+PRD00843,Fabindia Handloom Kurta - Value Pack,Fashion,Women Clothing,Fabindia,1603.37,2039.31,2020-06-12,SUP0098,4.7,Active
+PRD00844,Tata Sampann Toor Dal 2 kg - Standard,Grocery,Staples,Tata Sampann,1047.31,1242.32,2021-07-14,SUP0070,3.7,Active
+PRD00845,W Straight Fit Kurti - Combo Pack,Fashion,Women Clothing,W,3225.17,5143.36,2020-01-02,SUP0131,4.2,Active
+PRD00846,Funskool Board Game Family Pack Black,Baby & Kids,Toys,Funskool,903.97,1420.88,2020-06-12,SUP0031,4.8,Active
+PRD00847,Canon EOS R50 Mirrorless Large,Electronics,Cameras,Canon,88311.22,117952.32,2023-02-18,SUP0124,3.5,Active
+PRD00848,Casio G-Shock Digital Watch - Standard,Fashion,Watches,Casio,2621.3,3324.72,2024-11-20,SUP0119,4.3,Active
+PRD00849,Sony Bravia 55 inch 4K LED - Premium Blue,Electronics,Televisions,Sony,87792.76,127506.81,2020-09-06,SUP0032,3.2,Inactive
+PRD00850,Red Bull Energy Drink Pack - Value Pack,Grocery,Beverages,Red Bull,279.81,454.78,2025-02-14,SUP0142,4.2,Active
+PRD00851,Wonderchef Ceramic Cookware Set - Standard Blue,Home & Kitchen,Cookware,Wonderchef,3033.67,3951.97,2021-09-25,SUP0137,3.7,Inactive
+PRD00852,TCL TCL 55 inch Mini LED TV - Value Pack Large,Electronics,Televisions,TCL,81224.45,104975.45,2023-10-26,SUP0008,4.2,Active
+PRD00853,Hawkins Futura Hard Anodised Kadai - New Edition,Home & Kitchen,Cookware,Hawkins,3409.93,4398.16,2024-04-26,SUP0082,3.5,Active
+PRD00854,Nilkamal Shoe Rack 4 Door - New Edition,Home & Kitchen,Furniture,Nilkamal,22102.42,27074.37,2020-06-06,SUP0019,3.8,Active
+PRD00855,Wavex Ceramic Wax Polish,Automotive,Car Accessories,Wavex,2753.28,3788.96,2020-06-18,SUP0008,3.6,Active
+PRD00856,Daawat Rozana Basmati Rice 5 kg - Combo Pack,Grocery,Staples,Daawat,555.81,951.33,2025-02-27,SUP0025,3.3,Active
+PRD00857,Urban Ladder Fabric Recliner Chair - Premium 2025,Home & Kitchen,Furniture,Urban Ladder,60668.1,74355.24,2024-12-10,SUP0114,3.6,Active
+PRD00858,Rynox Riding Gloves Urban - New Edition Large,Automotive,Bike Accessories,Rynox,6724.95,7987.51,2022-11-17,SUP0082,4.4,Inactive
+PRD00859,Dove Hair Fall Conditioner - Premium,Beauty,Haircare,Dove,907.96,1439.48,2025-03-22,SUP0057,3.2,Active
+PRD00860,Daawat Rozana Basmati Rice 5 kg Black,Grocery,Staples,Daawat,860.31,1030.18,2024-02-08,SUP0086,3.3,Active
+PRD00861,LG UQ7500 43 inch 4K TV - Combo Pack,Electronics,Televisions,LG,17078.88,25751.06,2025-07-02,SUP0049,4.0,Active
+PRD00862,Pampers Premium Care Diapers - Combo Pack Large,Baby & Kids,Baby Care,Pampers,2163.3,2687.58,2022-08-24,SUP0140,3.2,Active
+PRD00863,Vero Moda Floral Midi Dress - Premium XL,Fashion,Women Clothing,Vero Moda,4324.51,6525.28,2025-03-17,SUP0148,4.4,Active
+PRD00864,Prestige Non-Stick Cookware Set - Value Pack Large,Home & Kitchen,Cookware,Prestige,2321.13,3908.57,2020-11-26,SUP0061,3.3,Active
+PRD00865,boAt Airdopes 141 TWS - Value Pack,Electronics,Headphones,boAt,9224.48,12646.42,2025-12-09,SUP0086,4.2,Active
+PRD00866,Morphy Richards Sandwich Maker Grill - Combo Pack,Home & Kitchen,Kitchen Appliances,Morphy Richards,3539.63,5478.64,2024-12-01,SUP0090,3.4,Active
+PRD00867,Aurelia A-Line Kurta - Combo Pack 2025,Fashion,Women Clothing,Aurelia,2326.63,2931.03,2024-11-22,SUP0078,4.3,Active
+PRD00868,Dove Intense Repair Shampoo - Premium XL,Grocery,Personal Care,Dove,322.4,379.58,2024-05-25,SUP0027,4.3,Active
+PRD00869,Fogg Fresh Deodorant Pack - Value Pack,Beauty,Fragrance,Fogg,641.71,756.7,2025-08-03,SUP0119,4.2,Active
+PRD00870,Casio Edifice Chronograph - Value Pack,Fashion,Watches,Casio,6547.72,10121.52,2022-01-21,SUP0022,3.5,Active
+PRD00871,Lakme Sunscreen SPF 50,Beauty,Skincare,Lakme,1653.32,2437.86,2024-06-27,SUP0043,4.4,Active
+PRD00872,Mi Mi 50 inch Smart TV,Electronics,Televisions,Mi,86319.01,101824.16,2021-12-01,SUP0148,3.6,Active
+PRD00873,Biotique Bhringraj Hair Oil - Value Pack,Beauty,Haircare,Biotique,665.99,1095.98,2023-06-22,SUP0008,4.7,Active
+PRD00874,Peter England Formal Trouser - Premium,Fashion,Men Clothing,Peter England,2314.21,3369.19,2021-09-09,SUP0052,3.7,Active
+PRD00875,Maybelline Colossal Mascara - Standard Blue,Beauty,Makeup,Maybelline,789.77,1348.75,2023-02-23,SUP0019,4.2,Active
+PRD00876,Axor Riding Jacket - Value Pack,Automotive,Bike Accessories,Axor,3522.16,5847.28,2022-11-18,SUP0050,3.7,Inactive
+PRD00877,Penguin Business Psychology of Money - Standard,Books,Business,Penguin Business,1252.67,1533.1,2022-08-15,SUP0050,3.7,Inactive
+PRD00878,Urban Ladder Sheesham Coffee Table Large,Home & Kitchen,Furniture,Urban Ladder,25651.84,39581.61,2025-12-03,SUP0053,4.7,Active
+PRD00879,Harper Business Built to Last - Value Pack Pack of 2,Books,Business,Harper Business,1685.56,2558.33,2020-06-30,SUP0049,4.5,Inactive
+PRD00880,Fisher-Price Activity Walker Black,Baby & Kids,Toys,Fisher-Price,4812.11,5788.2,2022-03-22,SUP0069,3.9,Active
+PRD00881,Boult Z40 Pro Earbuds - Premium,Electronics,Headphones,Boult,4576.45,6235.08,2023-07-15,SUP0038,3.4,Active
+PRD00882,Prestige Induction Cooktop - New Edition,Home & Kitchen,Kitchen Appliances,Prestige,4230.83,7136.72,2020-01-18,SUP0072,3.7,Active
+PRD00883,Daawat Rozana Basmati Rice 5 kg - Premium,Grocery,Staples,Daawat,943.15,1256.73,2024-05-10,SUP0046,4.3,Active
+PRD00884,HarperCollins Ikigai Hardcover - Combo Pack,Books,Fiction,HarperCollins,1814.7,2244.41,2025-09-15,SUP0004,4.4,Inactive
+PRD00885,Fortune Basmati Rice 1 kg,Grocery,Staples,Fortune,452.18,600.17,2024-01-23,SUP0086,4.1,Active
+PRD00886,Nike Court Vision Sneakers - Standard,Fashion,Footwear,Nike,5919.91,8904.75,2024-01-31,SUP0073,4.8,Active
+PRD00887,Decathlon Hiking Backpack 30L - Standard Silver,Sports,Outdoor Sports,Decathlon,6096.26,7202.55,2025-09-10,SUP0118,3.9,Active
+PRD00888,Titan Edge Ceramic Watch - Combo Pack,Fashion,Watches,Titan,11932.7,14451.16,2023-07-06,SUP0095,3.3,Active
+PRD00889,Skechers Memory Foam Walking Shoes - Standard Silver,Fashion,Footwear,Skechers,7586.69,10552.58,2020-06-01,SUP0036,4.6,Inactive
+PRD00890,Mamaearth Vitamin C Face Serum - Combo Pack Black,Beauty,Skincare,Mamaearth,1618.89,2405.64,2024-05-01,SUP0141,3.9,Active
+PRD00891,Boldfit Skipping Rope Pro - Value Pack,Sports,Fitness Equipment,Boldfit,23428.76,33569.25,2023-07-16,SUP0010,4.1,Active
+PRD00892,Wild Stone Code Titanium Perfume,Beauty,Fragrance,Wild Stone,724.16,996.26,2024-06-26,SUP0074,3.5,Active
+PRD00893,Nivea Moisturising Lotion 400ml - New Edition,Grocery,Personal Care,Nivea,236.85,392.1,2021-07-29,SUP0111,4.1,Active
+PRD00894,Casio Edifice Chronograph - New Edition 2025,Fashion,Watches,Casio,5233.74,8644.69,2020-04-13,SUP0067,3.4,Active
+PRD00895,Sugar Smudge Me Not Lipstick - New Edition Blue,Beauty,Makeup,Sugar,439.97,662.99,2024-10-12,SUP0001,3.3,Active
+PRD00896,Dove Intense Repair Shampoo - New Edition,Grocery,Personal Care,Dove,472.06,720.57,2023-02-04,SUP0034,4.3,Active
+PRD00897,Penguin The Silent Patient Paperback - Premium,Books,Fiction,Penguin,1575.54,2324.24,2021-11-05,SUP0006,3.4,Active
+PRD00898,Strauss Yoga Mat 6mm - Standard Silver,Sports,Fitness Equipment,Strauss,869.64,1484.1,2022-07-28,SUP0133,4.1,Active
+PRD00899,Home Centre Fabric 3 Seater Sofa Large,Home & Kitchen,Furniture,Home Centre,26870.74,38129.18,2022-03-06,SUP0057,4.6,Active
+PRD00900,Vivo Vivo T2 Pro 5G - Standard,Electronics,Smartphones,Vivo,44264.19,56974.19,2023-08-05,SUP0101,3.3,Active
+PRD00901,Vivo Vivo V27 5G - Combo Pack,Electronics,Smartphones,Vivo,38573.25,58830.04,2020-08-29,SUP0014,4.4,Active
+PRD00902,LG OLED C2 55 inch - Value Pack,Electronics,Televisions,LG,75148.04,118276.87,2025-07-26,SUP0088,4.4,Active
+PRD00903,Lifelong Resistance Band Kit - Premium 2025,Sports,Fitness Equipment,Lifelong,27623.01,39956.97,2025-09-16,SUP0075,4.4,Active
+PRD00904,Penguin The Silent Patient Paperback - Premium Blue,Books,Fiction,Penguin,644.97,1091.92,2022-12-22,SUP0012,4.1,Active
+PRD00905,L’Oreal Keratin Shampoo 580ml - New Edition Silver,Beauty,Haircare,L’Oreal,676.21,958.65,2025-01-16,SUP0099,3.4,Active
+PRD00906,Apple MacBook Air M2 - Value Pack,Electronics,Laptops,Apple,46776.12,68132.18,2021-03-17,SUP0100,4.1,Active
+PRD00907,Himalaya Baby Baby Powder 200g - Standard,Baby & Kids,Baby Care,Himalaya Baby,1759.71,2146.62,2020-09-01,SUP0015,3.9,Active
+PRD00908,Nikon D5600 DSLR Kit - Combo Pack White,Electronics,Cameras,Nikon,18282.35,22782.75,2025-08-22,SUP0133,3.7,Active
+PRD00909,Penguin The Silent Patient Paperback - New Edition Large,Books,Fiction,Penguin,1001.56,1273.61,2020-07-03,SUP0073,4.3,Active
+PRD00910,Fogg Perfume Spray 100ml - Combo Pack,Beauty,Fragrance,Fogg,986.48,1579.54,2023-03-30,SUP0095,4.5,Active
+PRD00911,Home Centre Ceramic Table Lamp - Combo Pack 2025,Home & Kitchen,Home Decor,Home Centre,932.92,1528.14,2020-10-08,SUP0099,4.4,Inactive
+PRD00912,Nikon Z50 Mirrorless Kit - Standard,Electronics,Cameras,Nikon,55736.11,65910.1,2024-10-25,SUP0048,3.7,Active
+PRD00913,Nikon Z50 Mirrorless Kit - Combo Pack,Electronics,Cameras,Nikon,84127.9,115041.24,2020-09-29,SUP0042,4.4,Active
+PRD00914,Engage Body Mist 150ml - Premium,Beauty,Fragrance,Engage,1821.09,2464.89,2020-02-16,SUP0101,4.7,Active
+PRD00915,Sennheiser HD 450BT Headphones - Standard Silver,Electronics,Headphones,Sennheiser,4507.42,6248.63,2024-01-03,SUP0003,3.4,Active
+PRD00916,Studds Riding Gloves - New Edition,Automotive,Bike Accessories,Studds,4005.08,6210.22,2023-07-26,SUP0100,4.7,Active
+PRD00917,WOW Skin Science Apple Cider Shampoo - Combo Pack,Beauty,Haircare,WOW Skin Science,652.46,996.22,2024-12-31,SUP0003,4.7,Active
+PRD00918,Apple iPhone 14 128GB - Premium,Electronics,Smartphones,Apple,20725.02,33011.65,2022-06-30,SUP0035,4.5,Active
+PRD00919,Wavex Ceramic Wax Polish - Premium,Automotive,Car Accessories,Wavex,5078.99,5966.55,2020-03-29,SUP0071,4.0,Active
+PRD00920,Aurelia Ethnic Dress,Fashion,Women Clothing,Aurelia,3970.85,5754.54,2022-06-23,SUP0002,3.7,Active
+PRD00921,Boult Rover Pro Earbuds,Electronics,Headphones,Boult,10597.51,15105.32,2025-01-15,SUP0137,3.7,Inactive
+PRD00922,Bosch Wiper Blade Set - New Edition,Automotive,Car Accessories,Bosch,4837.34,5629.0,2023-06-23,SUP0131,4.6,Active
+PRD00923,Adidas Training Jacket - Standard,Sports,Sportswear,Adidas,2734.44,4116.77,2023-11-24,SUP0045,4.4,Active
+PRD00924,Dell XPS 13 Plus,Electronics,Laptops,Dell,49548.62,76687.18,2022-12-26,SUP0098,3.7,Active
+PRD00925,Vivo Vivo T2 Pro 5G - New Edition,Electronics,Smartphones,Vivo,30949.72,51840.89,2020-07-06,SUP0133,4.8,Inactive
+PRD00926,MSI GF63 Thin Gaming - Standard,Electronics,Laptops,MSI,80757.6,98993.09,2025-11-29,SUP0065,4.6,Active
+PRD00927,Adidas Ultraboost Sneakers - Combo Pack Blue,Fashion,Footwear,Adidas,4341.55,6920.85,2023-08-17,SUP0128,3.4,Active
+PRD00928,Pond’s Face Wash 100g - Premium,Grocery,Personal Care,Pond’s,290.74,413.12,2023-09-03,SUP0043,3.6,Active
+PRD00929,Bru Instant Coffee Jar - New Edition,Grocery,Beverages,Bru,462.28,694.82,2025-12-03,SUP0027,4.4,Active
+PRD00930,Bata Formal Leather Shoes - New Edition Blue,Fashion,Footwear,Bata,5802.79,8713.77,2024-08-22,SUP0147,3.8,Active
+PRD00931,Lakme Peach Milk Moisturizer - New Edition,Beauty,Skincare,Lakme,1995.51,2356.16,2023-02-15,SUP0084,4.0,Active
+PRD00932,Ambrane Phone Holder Dashboard - New Edition XL,Automotive,Car Accessories,Ambrane,3687.03,4426.19,2023-04-03,SUP0046,4.4,Active
+PRD00933,Penguin Business Rich Dad Poor Dad - Standard,Books,Business,Penguin Business,1486.81,2255.48,2025-11-24,SUP0013,3.9,Active
+PRD00934,Morphy Richards Sandwich Maker Grill - Combo Pack Pack of 2,Home & Kitchen,Kitchen Appliances,Morphy Richards,6455.42,8284.54,2025-10-09,SUP0067,4.7,Active
+PRD00935,Plum Night Repair Cream - New Edition 2025,Beauty,Skincare,Plum,1573.59,2220.46,2025-10-28,SUP0076,4.7,Active
+PRD00936,McGraw Hill Data Science Handbook - Premium,Books,Education,McGraw Hill,2302.8,2726.86,2021-12-21,SUP0120,4.7,Active
+PRD00937,Adidas Track Pants Slim Fit - New Edition 2025,Sports,Sportswear,Adidas,6361.17,7501.13,2024-03-30,SUP0139,4.7,Active
+PRD00938,HP Victus Gaming Laptop - Premium,Electronics,Laptops,HP,66709.63,86819.77,2022-05-02,SUP0116,4.7,Active
+PRD00939,Oxford English Grammar Guide - Premium,Books,Education,Oxford,1844.67,2686.07,2020-01-08,SUP0010,4.4,Active
+PRD00940,Ambrane Car Charger 36W - Value Pack Pack of 2,Automotive,Car Accessories,Ambrane,3732.53,5043.25,2025-12-01,SUP0117,3.9,Active
+PRD00941,Pigeon Non-Stick Tawa - New Edition,Home & Kitchen,Cookware,Pigeon,5619.48,8755.65,2024-05-09,SUP0014,3.4,Active
+PRD00942,Haldiram’s Aloo Bhujia 400g - New Edition Black,Grocery,Snacks,Haldiram’s,170.33,270.96,2022-03-14,SUP0039,4.4,Active
+PRD00943,Daawat Rozana Basmati Rice 5 kg - Standard Large,Grocery,Staples,Daawat,640.23,998.22,2022-01-08,SUP0095,4.8,Active
+PRD00944,Max Kids Printed Shorts - Premium,Baby & Kids,Kids Clothing,Max Kids,1236.43,1691.34,2024-10-04,SUP0027,3.9,Active
+PRD00945,Tresemme Keratin Smooth Shampoo - Standard,Beauty,Haircare,Tresemme,887.82,1494.43,2022-12-04,SUP0098,3.5,Active
+PRD00946,Wiley Deep Learning Textbook - Standard Pack of 2,Books,Education,Wiley,1327.73,2260.92,2025-07-12,SUP0076,4.1,Active
+PRD00947,Neutrogena UltraSheer Sunscreen - Value Pack,Beauty,Skincare,Neutrogena,1700.44,2430.67,2022-06-15,SUP0042,3.8,Active
+PRD00948,Rynox Mobile Holder Bike,Automotive,Bike Accessories,Rynox,5405.84,6414.46,2021-05-17,SUP0029,4.5,Active
+PRD00949,Boldfit Push Up Bar Set - Combo Pack Large,Sports,Fitness Equipment,Boldfit,22366.83,32196.94,2020-05-15,SUP0064,4.7,Active
+PRD00950,Bloomsbury Harry Potter Box Set - Standard Black,Books,Fiction,Bloomsbury,539.9,838.49,2024-04-05,SUP0058,3.6,Active
+PRD00951,Mothercare Kids Denim Jeans - Premium,Baby & Kids,Kids Clothing,Mothercare,1069.08,1830.22,2021-07-01,SUP0081,4.6,Active
+PRD00952,Wonderchef Stainless Steel Kadai - Premium XL,Home & Kitchen,Cookware,Wonderchef,3926.15,5022.89,2022-02-21,SUP0055,4.2,Active
+PRD00953,Prestige Induction Cooktop - Premium,Home & Kitchen,Kitchen Appliances,Prestige,5499.94,9001.4,2021-04-23,SUP0028,3.3,Active
+PRD00954,Oxford Dictionary Thesaurus Set - Standard Blue,Books,Education,Oxford,2225.81,3040.45,2022-12-20,SUP0145,3.6,Active
+PRD00955,Johnson’s Baby Oil 500ml - New Edition Blue,Baby & Kids,Baby Care,Johnson’s,987.01,1540.25,2025-04-30,SUP0113,3.5,Active
+PRD00956,Realme Realme 11 Pro 5G - Value Pack,Electronics,Smartphones,Realme,34339.06,47440.84,2022-01-12,SUP0112,3.5,Active
+PRD00957,Ikea Wall Shelf Unit - Standard White,Home & Kitchen,Home Decor,Ikea,1898.54,2659.39,2020-05-24,SUP0110,3.3,Active
+PRD00958,India Gate Brown Rice 1 kg - Premium,Grocery,Staples,India Gate,872.46,1105.0,2022-04-09,SUP0032,4.7,Active
+PRD00959,Rynox Mobile Holder Bike - Combo Pack Black,Automotive,Bike Accessories,Rynox,2503.78,3423.73,2023-11-30,SUP0092,4.3,Inactive
+PRD00960,Maybelline Colossal Mascara 2025,Beauty,Makeup,Maybelline,1392.08,2106.4,2024-04-06,SUP0071,3.7,Active
+PRD00961,Morphy Richards Sandwich Maker Grill - Combo Pack Pack of 2,Home & Kitchen,Kitchen Appliances,Morphy Richards,4678.8,5615.76,2022-03-18,SUP0107,3.8,Active
+PRD00962,Borosil Microwave Safe Lunch Box - Combo Pack,Home & Kitchen,Cookware,Borosil,5000.29,6912.94,2024-12-15,SUP0124,3.4,Active
+PRD00963,Ikea Floor Lamp Black,Home & Kitchen,Home Decor,Ikea,3272.83,4707.7,2025-01-10,SUP0041,4.1,Active
+PRD00964,Mothercare Baby Romper Set - Standard,Baby & Kids,Kids Clothing,Mothercare,291.48,482.96,2023-09-27,SUP0077,4.3,Active
+PRD00965,Aurelia Ethnic Dress - Combo Pack,Fashion,Women Clothing,Aurelia,3911.4,5445.33,2020-04-16,SUP0111,3.8,Active
+PRD00966,Nivia Basketball Official Size - New Edition Blue,Sports,Outdoor Sports,Nivia,908.57,1172.02,2024-12-19,SUP0058,4.8,Active
+PRD00967,Aurelia A-Line Kurta - Standard,Fashion,Women Clothing,Aurelia,2382.69,3400.79,2020-12-16,SUP0113,3.2,Active
+PRD00968,Nivea Men Face Wash,Grocery,Personal Care,Nivea,447.76,642.3,2022-07-31,SUP0150,4.5,Active
+PRD00969,Dove Daily Shine Shampoo - Combo Pack,Beauty,Haircare,Dove,95.63,154.5,2021-09-21,SUP0001,3.6,Active
+PRD00970,Decathlon Hiking Backpack 30L Pack of 2,Sports,Outdoor Sports,Decathlon,11419.04,14254.13,2020-11-10,SUP0082,3.4,Active
+PRD00971,Bajaj Mixer Grinder GX1 - Standard,Home & Kitchen,Kitchen Appliances,Bajaj,3499.33,4812.89,2022-11-01,SUP0031,3.9,Active
+PRD00972,Bella Vita CEO Man Perfume - New Edition Blue,Beauty,Fragrance,Bella Vita,1674.99,1968.43,2023-06-28,SUP0115,3.4,Active
+PRD00973,Decathlon Camping Tent 2 Person,Sports,Outdoor Sports,Decathlon,6518.46,8242.52,2023-11-04,SUP0067,4.3,Active
+PRD00974,3M Car Dashboard Polish - New Edition,Automotive,Car Accessories,3M,4720.96,6128.57,2021-06-08,SUP0080,4.7,Active
+PRD00975,Peter England Checked Casual Shirt - Premium 2025,Fashion,Men Clothing,Peter England,2790.59,3974.99,2020-10-25,SUP0121,3.6,Active
+PRD00976,Steelbird Bike Cover Waterproof - New Edition,Automotive,Bike Accessories,Steelbird,3934.76,5141.67,2025-07-16,SUP0011,4.3,Active
+PRD00977,Mamaearth Vitamin C Face Serum - Standard White,Beauty,Skincare,Mamaearth,2337.79,3031.0,2024-08-25,SUP0078,4.8,Active
+PRD00978,Vu Vu Masterpiece 65 inch - Value Pack,Electronics,Televisions,Vu,61650.19,82556.87,2020-01-23,SUP0036,4.4,Inactive
+PRD00979,Penguin The Silent Patient Paperback - Value Pack,Books,Fiction,Penguin,952.72,1140.22,2023-12-18,SUP0048,4.8,Active
+PRD00980,Colorbar Nail Lacquer - Combo Pack Large,Beauty,Makeup,Colorbar,1454.72,1879.28,2021-12-23,SUP0132,3.5,Active
+PRD00981,Neutrogena UltraSheer Sunscreen - Standard,Beauty,Skincare,Neutrogena,2039.22,2781.24,2022-02-17,SUP0005,4.0,Active
+PRD00982,Roadster Casual Denim Shirt - New Edition,Fashion,Men Clothing,Roadster,2982.32,4443.34,2025-06-13,SUP0010,4.3,Active
+PRD00983,Cucumber Infant Frock Set,Baby & Kids,Kids Clothing,Cucumber,2582.65,3559.06,2020-07-09,SUP0145,4.3,Active
+PRD00984,Acer Aspire 5 i5 - Premium,Electronics,Laptops,Acer,68081.73,99742.01,2020-06-14,SUP0107,4.6,Active
+PRD00985,Vu Vu Premium 43 inch TV - New Edition,Electronics,Televisions,Vu,94241.42,143652.42,2025-08-03,SUP0017,4.4,Active
+PRD00986,Dove Body Wash 500ml - Premium,Grocery,Personal Care,Dove,201.6,315.47,2025-10-21,SUP0106,3.2,Active
+PRD00987,Godrej Interio 3 Door Wardrobe - Premium,Home & Kitchen,Furniture,Godrej Interio,44436.58,56331.61,2022-01-22,SUP0055,3.9,Active
+PRD00988,Sennheiser CX True Wireless - Value Pack,Electronics,Headphones,Sennheiser,9110.51,11318.71,2025-06-16,SUP0050,4.7,Active
+PRD00989,D’Decor Designer Cushion Covers - Standard Large,Home & Kitchen,Home Decor,D’Decor,4603.25,5524.88,2024-11-23,SUP0103,4.8,Inactive
+PRD00990,Aurelia A-Line Kurta - Standard XL,Fashion,Women Clothing,Aurelia,2625.32,3620.03,2024-09-13,SUP0030,4.4,Active
+PRD00991,Under Armour Tech 2.0 T-Shirt - Standard XL,Sports,Sportswear,Under Armour,3418.48,4053.28,2023-09-10,SUP0017,3.6,Active
+PRD00992,HRX Compression Tights - Value Pack,Sports,Sportswear,HRX,3564.84,5033.33,2020-10-03,SUP0130,3.4,Active
+PRD00993,McGraw Hill Quantitative Aptitude Book - Premium,Books,Education,McGraw Hill,1863.29,3207.87,2021-11-27,SUP0019,4.7,Inactive
+PRD00994,L’Oreal Hydra Fresh Gel Cream - Premium Large,Beauty,Skincare,L’Oreal,1724.76,2269.91,2024-09-07,SUP0038,4.4,Active
+PRD00995,Mamaearth Vitamin C Face Serum - Value Pack,Beauty,Skincare,Mamaearth,854.09,1281.61,2025-07-05,SUP0147,3.2,Inactive
+PRD00996,Dell Inspiron 14 Intel i5 - Value Pack,Electronics,Laptops,Dell,92540.1,134951.17,2021-01-31,SUP0082,4.6,Active
+PRD00997,Ambrane Car Charger 36W - Value Pack Large,Automotive,Car Accessories,Ambrane,1949.43,2969.28,2020-06-10,SUP0104,4.4,Active
+PRD00998,Lenovo ThinkPad E14 - Standard White,Electronics,Laptops,Lenovo,88276.39,108423.2,2023-04-19,SUP0146,4.8,Inactive
+PRD00999,Home Centre Dining Table 4 Seater - Value Pack,Home & Kitchen,Furniture,Home Centre,36185.09,62324.91,2023-07-27,SUP0039,4.3,Active
+PRD01000,Hopscotch Cotton T-Shirt Set - Combo Pack,Baby & Kids,Kids Clothing,Hopscotch,1543.98,2558.74,2023-02-27,SUP0037,4.5,Active
